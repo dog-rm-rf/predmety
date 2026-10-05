@@ -17,3 +17,12 @@
 \<sup> \</sup> hola<sup> ja</sup>
 
 \<ins> \</ins> This is an <ins>underlined</ins> text
+
+![](image-1.png)
+
+```
+- [x]
+- [ ]
+```
+
+> prikaz >

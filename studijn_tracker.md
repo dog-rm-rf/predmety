@@ -31,7 +31,7 @@ Jak to aplikovat: Kromě 7–9 hodin nočního spánku Huberman silně doporuču
 - **1. Týden**
   - 📖 **Přednáška:** Uplatnění matematické logiky v počítači, výrokový počet, logický důsledek. Informace a data v počítači, kódování a interpretace dat.
   - 💻 **Cvičení:** Organizace předmětu, literatura, podmínky zápočtu, zkoušky. Číselné soustavy, binární soustava v počítači.
-  - [ ] 📝 Zápisky | [ ] 🛠️ Cvičení | [ ] 🧠 Naučeno
+  - [ x ] 📝 Zápisky | [ ] 🛠️ Cvičení | [ ] 🧠 Naučeno
 - **2. Týden**
   - 📖 **Přednáška:** Binární kódy - Hammingova vzdálenost, zabezpečující a samoopravné kódy. Kódování základních typů dat (kódování znaků, doplňkový kód).
   - 💻 **Cvičení:** Vyhodnocení logické formule, splnitelnost formule, tautologie a kontradikce výrokového počtu. Logický důsledek.
@@ -203,7 +203,7 @@ _(Tento předmět má pouze cvičení)_
 - **1. Týden**
   - 📖 **Přednáška:** Výroková logika, logické spojky.
   - 💻 **Cvičení:** Výroková logika, logické spojky.
-  - [ ] 📝 Zápisky | [ ] 🛠️ Cvičení | [ ] 🧠 Naučeno
+  - [ ] 📝 Zápisky | [ x ] 🛠️ Cvičení | [ ] 🧠 Naučeno
 - **2. Týden**
   - 📖 **Přednáška:** Převod formule do disjunktivní normální formy a její minimalizace.
   - 💻 **Cvičení:** Převod formule do disjunktivní normální formy a její minimalizace.
