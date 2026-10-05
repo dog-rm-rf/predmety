@@ -6,50 +6,49 @@ Provozně ekonomická fakulta (Katedra informačního inženýrství)
 
 ## Kontakt
 
-* **Místnost:** PEF 552 (5. patro)
+- **Místnost:** PEF 552 (5. patro)
 
-* **Telefon:** +420 22434 3806
+- **Telefon:** +420 22434 3806
 
-* **E-mail:** buchtela@pef.czu.cz
+- **E-mail:** buchtela@pef.czu.cz
 
-* **Konzultace:** středa 10:30 – 12:00 (jindy po dohodě)
+- **Konzultace:** středa 10:30 – 12:00 (jindy po dohodě)
 
 ## Cíl a náplň předmětu
 
-Cílem předmětu je seznámit se podrobně s principem činnosti současných počítačů Von Neumannova typu. 
+Cílem předmětu je seznámit se podrobně s principem činnosti současných počítačů Von Neumannova typu.
 
-* Hlavním zaměřením je programové vybavení počítače, strojový kód, algoritmizace a strukturovaný návrh programů. 
-* Dále seznámení se s hlavními statickými a dynamickými datovými strukturami.
+- Hlavním zaměřením je programové vybavení počítače, strojový kód, algoritmizace a strukturovaný návrh programů.
+- Dále seznámení se s hlavními statickými a dynamickými datovými strukturami.
 
 **Témata přednášek:**
 
-* **Základy logiky:** binární soustava v počítači, výrokový počet a logický důsledek.
+- **Základy logiky:** binární soustava v počítači, výrokový počet a logický důsledek.
 
-* **Kódování dat v počítači:** binární kódy (zabezpečovací, samoopravný), kódování a interpretace dat, základní datové typy.
+- **Kódování dat v počítači:** binární kódy (zabezpečovací, samoopravný), kódování a interpretace dat, základní datové typy.
 
-* **Architektura a princip počítače:** Von Neumannova architektura, strojový kód, logické instrukce.
+- **Architektura a princip počítače:** Von Neumannova architektura, strojový kód, logické instrukce.
 
-* **Programové vybavení počítače:**
+- **Programové vybavení počítače:**
+  - Operační systém - role a rozhraní OS, procesy a spolupráce procesů.
 
-  * Operační systém - role a rozhraní OS, procesy a spolupráce procesů.
+  - Aplikační software - principy strukturovaného návrhu algoritmů (programů).
 
-  * Aplikační software - principy strukturovaného návrhu algoritmů (programů).
+- **Statické a dynamické datové struktury:** pole, záznam, objekt, ukazatel, spojový seznam, binární strom.
 
-* **Statické a dynamické datové struktury:** pole, záznam, objekt, ukazatel, spojový seznam, binární strom.
-
-* **Technické vybavení počítače:** procesor, paměti, periferní zařízení...
+- **Technické vybavení počítače:** procesor, paměti, periferní zařízení...
 
 ## Doporučená literatura
 
-* **Systém Moodle.czu.cz:** kurz Úvod do principů počítačů, klíč k zápisu odpovídá termínu cvičení.
+- **Systém Moodle.czu.cz:** kurz Úvod do principů počítačů, klíč k zápisu odpovídá termínu cvičení.
 
-* **Buchtela, D., Vynikarová, D.:** Cvičebnice z předmětu Výpočetní systémy, Praha: PEF ČZU, 2013.
+- **Buchtela, D., Vynikarová, D.:** Cvičebnice z předmětu Výpočetní systémy, Praha: PEF ČZU, 2013.
 
-* **Milková, E., Voborník, P.:** Algoritmy: objasnění, procvičení a vizualizace základních algoritmických konstrukcí, Praha: Alfa Nakladatelství, 2008.
+- **Milková, E., Voborník, P.:** Algoritmy: objasnění, procvičení a vizualizace základních algoritmických konstrukcí, Praha: Alfa Nakladatelství, 2008.
 
-* **Pondělíček, B., Demlová, M.:** Matematická logika, Praha: FEL ČVUT, 1997.
+- **Pondělíček, B., Demlová, M.:** Matematická logika, Praha: FEL ČVUT, 1997.
 
-* **Vaníček, J., Papík, M., Pergl, R. a Vaníček, T.:** Teoretické základy informatiky, Praha, Kernberg Publishing, 2007.
+- **Vaníček, J., Papík, M., Pergl, R. a Vaníček, T.:** Teoretické základy informatiky, Praha, Kernberg Publishing, 2007.
 
 ## Zakončení předmětu a hodnocení
 
@@ -57,37 +56,96 @@ Předmět je zakončen zápočtem a zkouškou.
 
 **Podmínky zápočtu:**
 
-* Přiměřená účast na cvičeních (dle podmínek cvičícího).
+- Přiměřená účast na cvičeních (dle podmínek cvičícího).
 
-* Absolvování všech (3) autotestů v systému Moodle ČZU.
+- Absolvování všech (3) autotestů v systému Moodle ČZU.
 
-* Praktické příklady z probírané problematiky (neomezený počet pokusů, je třeba získat plný počet bodů).
+- Praktické příklady z probírané problematiky (neomezený počet pokusů, je třeba získat plný počet bodů).
 
 **Zkouška (podmínkou je získání zápočtu):**
 
-* **Písemná část:**
+- **Písemná část:**
+  - Povinná pro všechny, trvání max. 45 minut.
 
-  * Povinná pro všechny, trvání max. 45 minut.
+  - Poměr teoretických a praktických otázek cca 1:1.
 
-  * Poměr teoretických a praktických otázek cca 1:1.
+  - 2x malá teoretická otázka, 1x praktický příklad, 1x algoritmus.
 
-  * 2x malá teoretická otázka, 1x praktický příklad, 1x algoritmus.
+  - Každá dílčí otázka je hodnocena známkou 1 až 4. Výsledná známka je "vážený" průměr (teoretické otázky mají větší váhu). 2x hodnocení 4 znamená celkovou 4.
 
-  * Každá dílčí otázka je hodnocena známkou 1 až 4. Výsledná známka je "vážený" průměr (teoretické otázky mají větší váhu). 2x hodnocení 4 znamená celkovou 4.
+- **Ústní část:**
+  - Dobrovolná (při hodnocení 1, 2, 3), zbytečná (při hodnocení 4).
 
-* **Ústní část:**
+  - Může se týkat jakékoliv probírané oblasti. Hodnocení lze změnit o libovolný počet stupňů oběma směry.
 
-  * Dobrovolná (při hodnocení 1, 2, 3), zbytečná (při hodnocení 4).
-
-  * Může se týkat jakékoliv probírané oblasti. Hodnocení lze změnit o libovolný počet stupňů oběma směry.
-
-  * Pokud se student nedostaví a neomluví v den zkoušky -> hodnocení 4!
+  - Pokud se student nedostaví a neomluví v den zkoušky -> hodnocení 4!
 
 ## Úvod do matematické logiky
 
+## Obsah
+
+Úvod do matematické logiky
+
+````
+├── Logika
+│   ├── věda o správném usuzování
+│   └── zkoumá, zda závěr vyplývá z předpokladů
+│
+├── Matematická (formální) logika
+│   ├── neřeší pravdivost ve skutečnosti
+│   ├── řeší správnost odvození závěrů
+│   ├── matematické důkazy
+│   ├── logické obvody
+│   └── podmínky v programech
+│
+├── Výrokový počet
+│   ├── Výrok
+│   │   ├── Pravda (1)
+│   │   └── Nepravda (0)
+│   │
+│   ├── Elementární výroky
+│   │   └── a, b, c, x, y, z
+│   │
+│   ├── Složené výroky
+│   │   └── spojení výroků pomocí spojek
+│   │
+│   ├── Logické spojky
+│   │   ├── ¬  Negace
+│   │   ├── ∧  Konjunkce (a)
+│   │   ├── ∨  Disjunkce (nebo)
+│   │   ├── ⇒  Implikace
+│   │   ├── ⇔  Ekvivalence
+│   │   ├── ⊕  XOR
+│   │   ├── ↑  NAND
+│   │   └── ↓  NOR
+│   │
+│   ├── Pravdivostní tabulky
+│   │   └── výpočet hodnot formulí
+│   │
+│   ├── Tautologie
+│   │   └── vždy pravdivá
+│   │
+│   ├── Kontradikce
+│   │   └── vždy nepravdivá
+│   │
+│   ├── Ekvivalence formulí
+│   │   ├── A ≡ B
+│   │   └── A ⇔ B je tautologie
+│   │
+│   └── Logický důsledek
+│       └── z předpokladů plyne závěr
+│
+└── Praktické využití v informatice
+    ├── binární logika (0,1)
+    ├── logické obvody
+    ├── procesory
+    ├── strojový kód
+    └── podmínky v programech
+    ```
+
 ### Matematická logika
 
-Logika pochází od řeckého slova **logos** (slovo, rozum, smysl). 
+**Logika** pochází od řeckého slova **logos** (slovo, rozum, smysl).
 
 $\rightarrow$ Logika je vědecká disciplína o správném uvažování (usuzování).
 
@@ -99,7 +157,7 @@ $\rightarrow$ Logika je vědecká disciplína o správném uvažování (usuzov�
 
 * **Při analýze a syntéze (konstrukci) elektronických logických obvodů** (základními prvky počítačů).
 
-* **Při konstrukci rozhodovacích podmínek. při návrhu softwaru** 
+* **Při konstrukci rozhodovacích podmínek. při návrhu softwaru**
 
   strojový kód procesoru vyhodnocuje podmínky pomocí logických instrukcí.
 
@@ -107,7 +165,8 @@ $\rightarrow$ Logika je vědecká disciplína o správném uvažování (usuzov�
 
 **Výrokový počet -** studium závislosti pravdivostní hodnoty složeného výroku na způsobu spojení a na pravdivostních hodnotách jednotlivých výroků.
 
-**Výrok:** každá oznamovací věta (sdělení), o které lze rozhodnout, zda je pravdivá či nepravdivá.
+**Výrok:**
+> každá oznamovací věta (sdělení), o které lze rozhodnout, zda je pravdivá či nepravdivá.
 
   * *Výrokem je:* Prší. Svítí sluníčko.
 
@@ -125,18 +184,22 @@ $\rightarrow$ Logika je vědecká disciplína o správném uvažování (usuzov�
 
 * **Složený výrok (logická formule):** Spojení elementárních výroků pomocí závorek a logických spojek. Značíme velkými písmeny: $A, B, C...$.
 
+* X: Prší a nesvítí sluníčko.
+* Y: Jestliže svítí sluníčko, nevezmu si deštník
+
+
 ### Vybrané logické spojky
 
-| Spojka | Význam | Značka | Příklad | 
- | ----- | ----- | ----- | ----- | 
-| negace | „není pravda, že" | $\neg$ | Není pravda, že prší. | 
-| konjunkce | „a (zároveň)" | $\wedge$ | Prší a svítí sluníčko. | 
-| disjunkce | „nebo" | $\vee$ | Prší nebo svítí sluníčko. | 
-| implikace | „jestliže... pak" | $\Rightarrow$ | Jestliže prší, vezmu si deštník. | 
-| ekvivalence | „právě tehdy, když" | $\Leftrightarrow$ | Prší právě tehdy, vezmu-li si deštník. | 
-| nonekvivalence | vylučující „nebo" | $\oplus$ | Buď prší nebo svítí sluníčko. (opak ekvivalence)| 
-| Shefferův operátor | NAND | $\uparrow$ | Není pravda, že prší a svítí sluníčko. (opak konjunkce)| 
-| Piercova šipka | NOR | $\downarrow$ | Není pravda, že prší nebo svítí sluníčko. (opak disjunkce)| 
+| Spojka | Význam | Značka | Příklad |
+ | ----- | ----- | ----- | ----- |
+| negace | „není pravda, že" | $\neg$ | Není pravda, že prší. |
+| konjunkce | „a (zároveň)" | $\wedge$ | Prší a svítí sluníčko. |
+| disjunkce | „nebo" | $\vee$ | Prší nebo svítí sluníčko. |
+| implikace | „jestliže... pak" | $\Rightarrow$ | Jestliže prší, vezmu si deštník. |
+| ekvivalence | „právě tehdy, když" | $\Leftrightarrow$ | Prší právě tehdy, vezmu-li si deštník. |
+| nonekvivalence | vylučující „nebo" | $\oplus$ | Buď prší nebo svítí sluníčko. (opak ekvivalence)|
+| Shefferův operátor | NAND | $\uparrow$ | Není pravda, že prší a svítí sluníčko. (opak konjunkce)|
+| Piercova šipka | NOR | $\downarrow$ | Není pravda, že prší nebo svítí sluníčko. (opak disjunkce)|
 
 ### Pravdivostní funkce
 
@@ -181,7 +244,7 @@ to do: zkusit si pravivostni hodnotu slozeneho vyroku
 
 **Důležité ekvivalence:**
 
-pridat 
+pridat
 
 * **Zákon dvojí negace:** $\neg(\neg a) \equiv a$
 
@@ -252,3 +315,4 @@ Na rozdíl od fyzikálních jednotek, kde se používají mocniny 10, se v infor
 * **peta- (P):** Fyzikální $10^{15}$, Informatické $2^{50}$
 
 Zlomky (mili, mikro) nemají pro informatické jednotky smysl.
+````
