@@ -107,9 +107,6 @@ Zkus si to představit na úplně obyčejné situaci, třeba na krádeži v obch
 
 ***Chammurapiho zákoník:***
 
-
-
-
 Byla to jedna z vůbec nejstarších písemných právních památek (starověká Babylonie, (1800–1700 př. n. l.)
 ). Fungoval na slavném principu „oko za oko, zub za zub“ a silně v něm
 prospívalo náboženské uspořádání – společnost tehdy věřila, že právo a spravedlnost sesílají bohové.   
@@ -149,12 +146,290 @@ Většina států na světě staví své právo na jednom ze tří hlavních typ
 **Tři hlavní pilíře světa:**
 
 1. **Kontinentální evropské právo** (psané zákony, kodexy – to, co máme v ČR).   
+   * **Základ:** Stojí na recepci (převzetí) starověkého římského práva.   
+   * **Pramen:** Hlavním pramenem je psaný právní předpis (zákon, kodex).   
+   * **Role soudu:** Soudci u nás právo netvoří – jejich úkolem je existující právní normy pouze aplikovat (použít na konkrétní případ). 
 
-2. **Angloamerické právo** (soudní precedenty, zvyklosti v USA nebo Velké Británii).   
+2. **Angloamerické právo** (soudní precedenty, zvyklosti v USA nebo Velké Británii). 
 
-3. **Islámské právo** (šaría, náboženské základy na Blízkém východě).  
+  * **Základ:** Stojí na „nalézání práva“ soudy (typicky Velká Británie, USA).   
+  * **Pramen:** Hlavním pramenem je soudní precedent (rozhodnutí soudu v dosud neupraveném případu, které je závazné pro budoucí podobné soudy).   
+  * **Role soudu:** Soudci právo neustále dotvářejí a jejich verdikty tvoří závazná pravidla pro budoucnost.  
+
+3. **Islámské právo** (šaría, náboženské základy na Blízkém východě). 
+
+  * Je to neměnné boží právo platící v některých státech Blízkého a Středního východu a v Africe.   
+
+  * Primárně upravuje osobní věci jako rodinné, dědické nebo darovací právo. Závazkové právo (obchodní vztahy) se v těchto zemích často řídí převzatým kontinentálním nebo angloamerickým právem. 
+
+4. **Systém tradičních a náboženských práv:**
+
+  * Stojí na právních obyčejích a náboženských pravidlech.   
+  
+  * Často existuje paralelně vedle systémů, které v zemích (např. v Africe či Asii) zanechaly bývalé koloniální mocnosti. Dnes se uplatňuje hlavně v otázkách osobního statutu (např. v Indii, Izraeli nebo některých arabských zemích).
+
+## Dualismus práva – jeho různé podoby
+
+1. **Přirozené vs. pozitivní (platné) právo:**
+
+  * **Přirozené právo:** 
+    
+    Soubor nezadatelných principů a lidských práv, která člověk má už od narození jen proto, že je člověk (např. právo na život, na svobodu), nezávisle na tom, co píší zákony.
+
+   * **Pozitivní (platné) právo:** 
+   
+    Konkrétní soubor norem a zákonů, které vydal stát a které jsou státem oficiálně vynucovány.
+
+2. **Objektivní vs. subjektivní právo:**
+
+  * **Objektivní právo:** 
+  
+    Celý právní řád, tedy všechen ten balík platných zákonů v daném státě.
+
+    **Definice**
+
+    `Souhrn nebo systém platných právních norem, jejichž plnění je vynutitelné státní mocí. Je totožné s právním řádem konkrétního státu.`
+
+    `Právní řád konkrétního státu = souhrn všech právních norem, které jsou v daném časovém období na území konkrétního státu platné (objektivní právo)` 
+
+  * **Subjektivní právo:** 
+    
+    Tvoje konkrétní osobní oprávnění, které pro tebe z toho objektivního práva vyplývá (např. „mám právo reklamovat zboží“, „mám právo volit“).
+
+    **Definice**
+
+    `Oprávnění jednotlivce vyplývající z právní normy (objektivního práva). Subjektivní právo je jinak řečeno zákonem garantovaná míra možného chování subjektu, adresáta právní normy (člověk, právnická osoba – obchodní společnost)`
+
+    `Subjektivní právo je to, co adresát právní normy (objektivního práva) může učinit (jak může jednat), neboť mu to objektivní právo dovoluje`
+       
+3. **Hmotné vs. procesní právo:**
+  * **Hmotné právo:** 
+  
+    Pravidla chování, která říkají, co smíš a nesmíš a jaká máš práva a povinnosti (např. občanský zákoník, trestní zákoník).
+
+    Upravuje společenské vztahy po stránce věcné
+
+  * **Procesní právo:** Pravidla postupu, která říkají, jak se svých práv domoci před úřady či soudy (např. občanský soudní řád, trestní řád). Nastává když je hmotné porušeno.
+
+    Stanovuje postupy v různých typech řízení před státními orgány  
+
+4. **Soukromé vs. veřejné právo:**
+  * **Soukromé právo:** 
+  
+    Vztahy mezi rovnocennými subjekty (občany, firmami, ale i stát ale nemá dominantní pozici, fyzické a právní), kde platí smluvní volnost.(nikdo není nadřízení tomu druhému)
+
+  * **Základní pravidlo chování:** 
+  
+    Platí zde zásada autonomie: „Občan může jednat tak, jak mu zákon nezakazuje, a není povinen činit to, co mu zákon neukládá.“
+  
+  * **Veřejné právo:** 
+  
+    Vztahy, kde je stát v nadřízené (svrchované) pozici vůči občanovi (daně, pokuty, trestní právo). 
+
+    * Oblast veřejných zájmů, které stát reprezentuje, je v demokratické společnosti přesně vymezena.
+
+    * Státní orgány jsou vázány zákonem a mohou jednat pouze v jeho mezích.
+
+    * **Vázanost zákonem:** Zatímco občan v soukromém právu může dělat vše, co mu zákon nezakazuje, státní orgány jsou naopak vázány zákonem a mohou jednat pouze v jeho mezích
+  
+  
+
+  
+5. **Relativní vs. absolutní právo:** 
+  * **Relativní právo:** 
+  
+    Vztah působící „mezi stranami“ (inter partes) – např. závazek z konkrétní smlouvy platí jen mezi tebou a tím, s uzavřel smlouvu.   
+
+    `Subjektivní právo účastníka právního vztahu, kterému odpovídá konkrétní povinnost jiného nebo více individuálně určených účastníků.`
+
+  * **Absolutní právo:** 
+  
+    Vztah působící „vůči všem“ (erga omnes) – např. mé vlastnické právo k autu znamená, že všichni ostatní lidé na světě mají povinnost mi do něj nezasahovat a nerušit mě. 
+
+    `Odpovídá mu povinnost neurčeného počtu subjektů nerušit oprávněného ve výkonu jeho práv.`
+
+## Prameny práva, právní normy, právní řád
+* **Co je pramenem práva:** 
+
+  Je to forma objektivního práva, která v sobě obsahuje právní normy. Tyto formy se liší podle toho, v jakém právním systému a kultuře se nacházíme.   
+
+  Každý stát má svou vlastní a unikátní kombinaci pramenů práva.   
+
+**4 hlavní historicky zformované typy pramenů práva:**
+
+1. **Normativní právní akty** (např. zákony, nařízení) – to je to naše hlavní psané právo.   
+
+2. **Soudní rozhodnutí, precedenty** – rozhodnutí soudů, která vytvářejí závazná pravidla pro budoucí případy (typické pro angloamerický systém).   
+
+3. **Právní obyčeje** – historicky vůbec nejstarší pramen práva založený na dlouhodobých tradicích.   
+
+4. **Normativní smlouvy** – mezinárodní nebo kolektivní smlouvy, které regulují určitou skupinu případů.
+
+## Normativní právní akty
+
+* **Co to je:** Jde o obecně závazné právní předpisy, tedy soubory právních norem vydané orgánem veřejné moci v náležité formě.
+
+  * **Hlavní vlastnosti:** 
+
+    * Jsou typickým pramenem pro kontinentální evropský právní systém. 
+
+    * Vznikají právotvornou činností státních orgánů, které mají pravomoc právní normy vydávat, měnit nebo rušit. 
+
+    * Aby byl normativní právní akt platný, musí být předepsaným způsobem oficiálně vyhlášen.
+
+  * **Absolutně závazné prameny v ČR:** Do této hlavní kategorie patří společně s normativními smlouvami (včetně mezinárodních) a nálezy Ústavního soudu. 
+
+**Původní (primární) normativní právní akty**
+
+* **Nejvyšší právní síla:** Primární předpisy stojí na vrcholu právního systému.
+
+* **Čtyři hlavní typy původních aktů:**
+  1. **Ústava a ústavní zákony:** Jde o úplně nejvyšší zákony státu, které přijímá parlament ČR oběma komorami.
+
+  2. **Zákony:** Standardní primární předpisy, které přijímá Poslanecká sněmovna (určité schvalovací funkce má i Senát a prezident republiky).
+
+  3. **Zákonná opatření Senátu:** Vydává je Senát v situaci, kdy Poslanecká sněmovna nemůže vykonávat své pravomoci.
+
+  4. **Obecně závazné vyhlášky:** Vydávají je obecní a městská zastupitelstva nebo kraje pro své území.
+
+**Odvozené (sekundární) normativní právní akty**
+
+* **Kdo je vydává:** Jde o akty výkonných orgánů a orgánů státní správy.
+
+* **Právní síla:** Mají nižší právní sílu než zákony
+
+* **Zásada podřízenosti:** Nesmí v žádném případě odporovat normativním právním aktům, od nichž jsou odvozeny.
+
+* **K čemu slouží:** Slouží k podrobnější právní úpravě věcí, které už jsou v zásadě upraveny primárními normativními akty (zákony).
+
+**Příklady odvozených právních aktů**
+
+* **Vládní nařízení:** Vláda ČR je Ústavou generálně zmocněna k tomu, aby vydávala prováděcí nařízení k zákonům
+
+* **Vyhlášky ministerstev a ústředních orgánů státní správy:** Tyto předpisy lze vydávat výhradně na základě výslovného zmocnění v konkrétním zákoně.
+
+* **Vyhlášky a předpisy ČNB:** Vydává je Česká národní banka rovněž na základě zákonného zmocnění.
+
+* **Nařízení obcí a krajů:** Jedná se o normativní právní akty vydávané v tzv. přenesené působnosti.
 
 
+**Znaky normativních právních aktů**
+
+* **Forma:** Normativní právní akt je výsledkem záměrné činnosti orgánu veřejné moci, který k tomu má legislativní pravomoc. Vzniká předepsanou legislativní procedurou a musí být řádně publikován, jinak se nemůže stát platným a účinným.
+
+* **Normativita:** Znamená to, že daný předpis obsahuje obecná pravidla chování.
+
+* **Abstraktnost:** Pravidla mají obecný charakter. Nejsou napsaná pro konkrétního člověka jménem, ale dopadají na každého, kdo se ocitne v typově určené situaci.
+
+* **Obecná závaznost:** Předpis zavazuje všechny osoby, které se nacházejí v působnosti orgánu, jenž daný normativní právní akt vydal.
+
+**Normativní smlouvy**
+
+* **Co je smlouva:** Jedná se o dvoustranné či vícestranné právní jednání.
+
+* **Kdy se stává pramenem práva:** Smlouva získá tzv. normativní význam a stane se pramenem práva teprve v okamžiku, kdy reguluje určitou skupinu případů stejného druhu.
+
+* **Dva hlavní typy normativních smluv jako pramenů práva v ČR:**
+
+  * 1. **Kolektivní smlouvy** uzavřené mezi zaměstnavateli a odbory na vnitrostátní úrovni.
+
+  * 2. **Mezinárodní smlouvy**, pokud jsou řádně "převzaty" do našeho vnitrostátního práva.
+
+
+## Nálezy Ústavního soudu
+
+* **Ochránce ústavnosti:** Ústavní soud ČR je nejvyšším orgánem, který má roli "ochránce ústavnosti".
+
+* **Dotváření práva:** Formou svých nálezů dotváří již existující formální soustavu pramenů práva v ČR (tedy normativní právní akty a normativní smlouvy).
+
+* **Zrušení zákona:** Pokud Ústavní soud v řízení zjistí, že nějaký zákon nebo jeho část je v rozporu s ústavním zákonem, rozhodne nálezem a takový předpis (nebo jeho ustanovení) ke dni stanovenému v nálezu zruší.
+
+## Prameny práva (angloamerický systém) 
+
+### Právní obyčej
+
+* **Historický původ:** Patří k historicky nejstarším pramenům práva, v České republice se však uplatňuje pouze výjimečně (například v podobě obchodních zvyklostí).
+
+* **Zvykové právo:** Jde o systém založený na právních obyčejích, které se v určitém společenství dlouhodobě ustálily a jsou všeobecně uznávány a dodržovány.
+
+* **Podmínka pro uznání za pramen práva:** Aby byl obyčej brán jako pramen práva, musí ho stát oficiálně uznat, státní orgány ho musí aplikovat na konkrétní případy a v případě jeho porušení musí následovat státní sankce.
+
+### Soudní precedent
+
+* **Co to je:** Jde o rozhodnutí soudu nebo jiného státního orgánu, kterým se řeší situace, jež nebyla právem dosud regulována – tedy se jedná o vůbec první řešení daného případu, který dosud nebyl právem upraven.   
+
+* **Právní závaznost pro budoucnost:** Podstatou precedentu je skutečnost, že toto vůbec první posouzení případu se do budoucna stává právně závazným pro všechny další případy stejného druhu.   
+
+* **Kde se vyskytuje:** Tento pramen práva je nejcharakterističtější pro angloamerický systém nebo mezinárodní právo. 
+
+## Právní normy
+
+* **Základní jednotka:** Právní norma je základní a nejmenší jednotkou právního normativního aktu.
+
+* **Pravidlo chování:** Jde o závazné pravidlo chování, které se vyznačuje třemi klíčovými znaky:
+
+  * 1. **Všeobecnou závazností:** Platí pro všechny subjekty, na které dopadá.
+
+  * 2. **Normativností:** Chování je v ní nastaveno v podobě obecného a abstraktního pravidla (neřeší konkrétní jeden případ jmenovitě).
+
+  * 3. **Vynutitelností státní mocí:** Pokud někdo normu poruší, stát je schopen a oprávněn vynutit nápravu nebo uložit sankci.
+
+## Kogentní a dispozitivní právní normy
+* **Kogentní právní norma:**
+
+    * Je to taková právní norma, u níž není možné se odchýlit.
+
+    * Strany si nemohou sjednat nic jiného, než co norma přikazuje.
+
+    * Je typická zejména pro právo veřejné.
+
+    * Zahrnuje obecný příkaz, zákaz nebo dovolení a dělí se na přikazující, zakazující a opravňující.
+
+* **Dispozitivní právní norma:**
+
+    * Je to taková právní norma, u které se lze odchýlit od pravidla chování obsaženého v dispozici normy.
+
+    * Pokud si strany víceméně sjednají pravidla po svém, má přednost jejich ujednání; pravidlo ze zákona nastupuje až tehdy, kdy si strany vlastní postup nezvolí.
+
+    * Je typická pro právo soukromé (např. v občanském právu a smluvních vztazích).
+
+## Struktura právní normy
+
+* **Hypotéza:**
+
+    * Vyjadřuje podmínky, za kterých se má realizovat vlastní pravidlo chování.
+
+    * Vymezuje okruh adresátů normy, čas a působnost.
+
+* **Dispozice:**
+
+    * Upravuje vlastní pravidlo chování.
+
+    * Subjektům něco přikazuje, zakazuje nebo je opravňuje k nějakému jednání.
+
+    * Nastupuje za předpokladu, že nastaly okolnosti stanovené v hypotéze.
+
+* **Sankce:**
+
+    * Je předem stanovený následek za to, že nebyla dodržena dispozice právní normy.
+
+    * Nemusí představovat pouze trest, ale může jí být například povinnost nahradit škodu.
+
+    * Může plnit několik funkcí, mezi které patří preventivní, nahrazovací a represivní.
+
+## Příklad struktury právní normy
+
+* **Rozptýlení v právním řádu:** V reálném právním řádu najdeme všechny tři části v jediném ustanovení pouze výjimečně, velmi často bývají rozptýleny v rámci určitého právního předpisu.
+
+* **Příklad hypotézy:** „kdo najde ztracenou věc“ – vymezuje podmínku a situaci, na kterou se norma vztahuje (§ 135 OZ).
+
+* **Příklad dispozice:** „je povinen ji vydat vlastníkovi“ – stanoví pravidlo chování pro danou situaci (§ 135 OZ).
+
+* **Příklady sankce:** Náhrada újmy, úroky z prodlení (v případě prodlení s plněním dluhu a podobně).
+
+## Další členění právních norem
+
+* **Přikazující normy:**   Ukládají subjektům povinnost chovat se určitým způsobem.   Příklad: § 9 odst. 1 písm. a) zákona č. 361/2000 Sb. – přepravovaná osoba je povinna užívat za jízdy na motocyklu nebo mopedu ochrannou přilbu schváleného typu, kterou má nasazenou a řádně připevněnou na hlavě.   Zakazující normy:Stanovují povinnost zdržet se určitého chování, respektive neuskutečnit určité chování vyjádřené daným zákazem.   Příklad: § 9 odst. 5 – přepravovaná osoba nesmí vyhazovat předměty z vozidla.   Opravňující normy:Formulují určité oprávnění, tedy možnost subjektu chovat se určitým právně relevantním způsobem, aniž je k tomu povinen.   Příklad: § 11 občanského zákoníku (právo fyzické osoby na ochranu osobnosti).   Deklaratorní normy:Vyjadřují principy či deklarují politické, sociálně ekonomické, etické či jiné cíle a postuláty.   Příklad: § 1 odst. 1 občanského zákoníku.
 Aplikace prává:
 
     1) Kontinentální - co je psáno je dáno, právní předpisy z nich vycházíme, řídí zákonem
