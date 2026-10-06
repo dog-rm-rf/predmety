@@ -31,7 +31,7 @@ Jak to aplikovat: Kromě 7–9 hodin nočního spánku Huberman silně doporuču
 - **1. Týden**
   - 📖 **Přednáška:** Uplatnění matematické logiky v počítači, výrokový počet, logický důsledek. Informace a data v počítači, kódování a interpretace dat.
   - 💻 **Cvičení:** Organizace předmětu, literatura, podmínky zápočtu, zkoušky. Číselné soustavy, binární soustava v počítači.
-  - [ x ] 📝 Zápisky | [ ] 🛠️ Cvičení | [ ] 🧠 Naučeno
+  - [x] 📝 Zápisky | [ ] 🛠️ Cvičení | [ ] 🧠 Naučeno
 - **2. Týden**
   - 📖 **Přednáška:** Binární kódy - Hammingova vzdálenost, zabezpečující a samoopravné kódy. Kódování základních typů dat (kódování znaků, doplňkový kód).
   - 💻 **Cvičení:** Vyhodnocení logické formule, splnitelnost formule, tautologie a kontradikce výrokového počtu. Logický důsledek.
@@ -78,7 +78,7 @@ Jak to aplikovat: Kromě 7–9 hodin nočního spánku Huberman silně doporuču
 - **1. Týden**
   - 📖 **Přednáška:** Právo, pojem práva, dualismu, prameny práva a právní systémy, právní řád, právní normy.
   - 💻 **Cvičení:** První normy, publikace aplikace, interpretace, analogie, platnost a účinnost.
-  - [ ] 📝 Zápisky | [ ] 🛠️ Cvičení | [ ] 🧠 Naučeno
+  - [x] 📝 Zápisky | [x] 🛠️ Cvičení | [ ] 🧠 Naučeno
 - **2. Týden**
   - 📖 **Přednáška:** Právní vztahy, jejich předpoklady a prvky, právní skutečnosti, subjekty, předmět, obsah, ochrana subjektivních práv.
   - 💻 **Cvičení:** Právní skutečnosti, právní jednání, čas, jako právní skutečnost, promlčení, prekluze.
@@ -125,7 +125,7 @@ Jak to aplikovat: Kromě 7–9 hodin nočního spánku Huberman silně doporuču
 _(Tento předmět má pouze cvičení)_
 
 - **1. Týden:** Unit 1 - tense review; question forms; making suggestions.
-  - [ ] 📝 Zápisky | [ ] 🛠️ Cvičení | [ ] 🧠 Naučeno
+  - [x] 📝 Zápisky | [x] 🛠️ Cvičení | [ ] 🧠 Naučeno
 - **2. Týden:** Unit 1 - free-time activities; life coaching - interactive project.
   - [ ] 📝 Zápisky | [ ] 🛠️ Cvičení | [ ] 🧠 Naučeno
 - **3. Týden:** Unit 2 - expressing future; present continuous for future plans; compound nouns.
@@ -156,7 +156,7 @@ _(Tento předmět má pouze cvičení)_
 - **1. Týden**
   - 📖 **Přednáška:** Management v historickém vývoji, charakteristika řízení jako informačního působení, procesu a činnosti.
   - 💻 **Cvičení:** Charakteristika řízení. Systém - charakteristika, typologie, rozlišovací úrovně. Transformace - operace, trajektorie, činnost, chování.
-  - [ ] 📝 Zápisky | [ ] 🛠️ Cvičení | [ ] 🧠 Naučeno
+  - [x] 📝 Zápisky | [ ] 🛠️ Cvičení | [ ] 🧠 Naučeno
 - **2. Týden**
   - 📖 **Přednáška:** Systém, zápisy systémů, jejich typologie, vztah objekt - systém, rozlišovací úroveň, složitost systémů, charakteristika řídící informace.
   - 💻 **Cvičení:** Organizační systém - hierarchie, kompetence. Charakteristika řídících prvků O.S. (zpracování inf., přenos inf., chování, výpočty).
@@ -203,7 +203,7 @@ _(Tento předmět má pouze cvičení)_
 - **1. Týden**
   - 📖 **Přednáška:** Výroková logika, logické spojky.
   - 💻 **Cvičení:** Výroková logika, logické spojky.
-  - [ ] 📝 Zápisky | [ x ] 🛠️ Cvičení | [ ] 🧠 Naučeno
+  - [x] 📝 Zápisky | [ x ] 🛠️ Cvičení | [ ] 🧠 Naučeno
 - **2. Týden**
   - 📖 **Přednáška:** Převod formule do disjunktivní normální formy a její minimalizace.
   - 💻 **Cvičení:** Převod formule do disjunktivní normální formy a její minimalizace.
@@ -256,7 +256,7 @@ _(Tento předmět má pouze cvičení)_
 _(Tento předmět má vypsané pouze přednášky)_
 
 - **1. Týden:** Základy algoritmizace.
-  - [ ] 📝 Zápisky | [ ] 🧠 Naučeno
+  - [x] 📝 Zápisky | [ ] 🧠 Naučeno
 - **2. Týden:** Řídící struktury a grafického znázornění algoritmů.
   - [ ] 📝 Zápisky | [ ] 🧠 Naučeno
 - **3. Týden:** Organizace paměti, operátory a výrazy.
