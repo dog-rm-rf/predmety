@@ -1,31 +1,25 @@
-## [Page 1]
-Jak jsem potkal logiku Základní pojmy
 
-Výroková logika
-
+# Výroková logika
 Jan Hora
+Konzulatace - Po,St 13:00 - 13:45
+
 Česká zemědělská univerzita
 5. srpna 2025
 Jan Hora Výroková logika
+pisemna zkouska
 
-## [Page 2]
-Jak jsem potkal logiku Základní pojmy
 
-**U makléře**
+**U makléře - pak vyřešit**
 
 **Já:** Dobrý den, rád bych koupil nějaký světlý byt. Chtěl bych, aby měl dvě koupelny a aby byl v domě výtah.
 
 **Makléř:** Ano ano, rozhodně nějaké byty, co by se Vám mohly líbit, v nabídce máme. Ovšem, pokud budete trvat na výtahu, pak nemůžete mít dvě koupelny. Ale rozhodně Vám nenabídnu něco tmavého, bez výtahu a s jednou koupelnou, tak váženému zákazníkovi, jako jste Vy (následováno slizkým úsměvem). A jak tak koukám, je tu ještě jedna dobrá zpráva, všechny světlé byty v nabídce mají dvě koupelny a výtah.
 
-Jan Hora
-Výroková logika
 
-## [Page 3]
-Jak jsem potkal logiku Základní pojmy
 
-**Základní stavební kameny**
-
+## Základní stavební kameny
 **Definice**
+
 Elementární výrok je oznamovací věta, o které má smysl rozhodovat, jestli je pravdivá, a kterou chápeme jako nedělitelný celek.
 
 **Příklady**
@@ -38,11 +32,6 @@ Elementární výrok je oznamovací věta, o které má smysl rozhodovat, jestli
 * $x^{2}-2\ge3x+2$
 * Jestli budou mít švestky, uvařím švestkové knedlíky.
 
-Jan Hora Výroková logika
-
-## [Page 4]
-Jak jsem potkal logiku Základní pojmy
-
 **Některé výroky jsou složitější**
 
 * **H:** Půjdu dnes večer s Pavlem do hospody.
@@ -52,14 +41,12 @@ Jak jsem potkal logiku Základní pojmy
 * **S:** Zůstaneš doma NEBO pozvu na víkend svojí maminku.
 * **H:** Půjdu dnes večer do hospody PRÁVĚ TEHDY, KDYŽ půjde Pavel.
 
-Jan Hora Výroková logika
-
-## [Page 5]
-Jak jsem potkal logiku Základní pojmy
-
 **Pravdivost výroků**
 
+to-do: udelat si pravdivostní hodnoty
+
 **Značení**
+
 Výroky budeme označovat velkými písmeny, a to buď ze začátku abecedy nebo tak, aby název odpovídal danému výroku.
 
 **Značení**
@@ -67,12 +54,6 @@ Výrok může nabývat dvou hodnot, a to pravda a nepravda, značíme $1$ a $0$.
 
 **Poznámka**
 Pravdivost výroku nemusíme být schopni v dané chvíli určit.
-
-Jan Hora
-Výroková logika
-
-## [Page 6]
-Jak jsem potkal logiku Základní pojmy
 
 **Negace**
 
@@ -89,10 +70,6 @@ Není pravda, že Trautenberk je dobrý člověk.
 neboli
 $A'$ ... Trautenberk není dobrý člověk.
 
-Jan Hora Výroková logika
-
-## [Page 7]
-Jak jsem potkal logiku Základní pojmy
 
 **Konjunkce**
 
@@ -111,12 +88,6 @@ $A\wedge B$ ... Hrabáč se živí termity a zároveň mravenci.
 Lépe česky:
 $A\wedge B$ ... Hrabáč se živí termity i mravenci.
 
-Jan Hora
-Výroková logika
-
-## [Page 8]
-Jak jsem potkal logiku Základní pojmy
-
 **Disjunkce**
 
 **Příklad**
@@ -132,11 +103,6 @@ Disjunkcí výroků $A$ a $B$ rozumíme větu "$A$ nebo $B$". Značíme $A\vee B
 Disjunkce výroků $A$ a $B$ je tedy věta
 $A\vee B$ ... Nově přijatý zaměstnanec musí mít vysokou školu nebo praxi.
 
-Jan Hora
-Výroková logika
-
-## [Page 9]
-Jak jsem potkal logiku Základní pojmy
 
 **Implikace**
 
@@ -153,10 +119,11 @@ Implikací výroků $A$ a $B$ rozumíme větu "Jestliže $A$, pak $B$". Značím
 Implikace výroků $A$ a $B$ (v tomto pořadí) je tedy věta
 $A\Rightarrow B$ ... Jestliže budou mít švestky, uvařím švestkové knedlíky.
 
-Jan Hora Výroková logika
+A - předpoklad
+B - závěr
+může být více spojek, li, když
 
-## [Page 10]
-Jak jsem potkal logiku Základní pojmy
+jestliže - mluví jen když když je pravdivý ten první výrok, pokud nemají švestky tak si můžeme co chceme, vlastně mi si můžeme udělat v té chvíli co chcem protože jsme nespcifikovali co se stane když nemají švesky, pak to můžeme nabívat 0, 1
 
 **Ekvivalence**
 
@@ -173,12 +140,11 @@ Ekvivalencí výroků $A$ a $B$ rozumíme větu "$A$ právě tehdy, když $B$". 
 Ekvivalence výroků $A$ a $B$ je tedy věta
 $A\Leftrightarrow B$ ... Alice miluje Boba právě tehdy, když Bob miluje Alici.
 
-Jan Hora Výroková logika
-
-## [Page 11]
-Jak jsem potkal logiku Základní pojmy
-
 **Logické spojky – shrnutí**
+
+$A$ výroková proměná 
+
+$0, 1$ výrokové proměné
 
 | Značení | Název | Význam |
 | :--- | :--- | :--- |
@@ -188,34 +154,29 @@ Jak jsem potkal logiku Základní pojmy
 | $A\Rightarrow B$ | Implikace | Jestliže $A$, pak $B$ |
 | $A\Leftrightarrow B$ | Ekvivalence | $A$ právě tehdy, když $B$ |
 
-Jan Hora
-Výroková logika
-
-## [Page 12]
-Jak jsem potkal logiku Základní pojmy
-
 **Skládáme výroky ve formule**
 
 **Definice**
-Výroková proměnná je formální symbol zastupující libovolný elementární výrok.
-Výroková konstanta je formální symbol zastupující konkrétní výrokovou hodnotu (čili Pravdu nebo Nepravdu).
+
+**Výroková proměnná** je formální symbol zastupující libovolný elementární výrok.
+
+**Výroková konstanta** je formální symbol zastupující konkrétní výrokovou hodnotu (čili Pravdu nebo Nepravdu).
 
 **Definice**
-Každá výroková proměnná je výroková formule.
+
+Každá výroková proměnná je **výroková formule**.
+
 Každá výroková konstanta je výroková formule.
+
 Pokud jsou $\varphi$, $\psi$ výrokové formule, pak jsou výrokové formule i $(\neg\varphi)$, $(\varphi\vee\psi)$, $(\varphi\wedge\psi)$, $(\varphi\Rightarrow\psi)$, $(\varphi\Leftrightarrow\psi)$.
+
 Jiné výrokové formule nejsou.
 Místo výrokové formule budeme obvykle říkat jen formule.
 
-Jan Hora
-Výroková logika
-
-## [Page 13]
-Jak jsem potkal logiku Základní pojmy
-
 **Pravda, nepravda, lež**
 
-Výroková proměnná (stejně jako elementární výrok) může nabývat dvou hodnot, a to PRAVDA/NEPRAVDA, značí se $1/0$.
+Výroková proměnná (stejně jako elementární výrok) může nabývat dvou hodnot, a to **PRAVDA/NEPRAVDA**, značí se $1/0$.
+
 Pravdivost složitějších výrokových formulí definujeme tak, aby souhlasila s významem těchto spojek v běžné řeči:
 
 | A | B | $A'$ | $A\wedge B$ | $A\vee B$ | $A\Rightarrow B$ | $A\Leftrightarrow B$ |
@@ -227,11 +188,6 @@ Pravdivost složitějších výrokových formulí definujeme tak, aby souhlasila
 
 *(Pozn.: Hlavička tabulky byla pro přehlednost zarovnána do standardního formátu.)*
 
-Jan Hora
-Výroková logika
-
-## [Page 14]
-Jak jsem potkal logiku Základní pojmy
 
 **Příklady**
 
@@ -241,35 +197,45 @@ Napište pravdivostní tabulku formule $A\Rightarrow(B'\Rightarrow A)$.
 **Příklad**
 Napište pravdivostní tabulku formule $(A'\Leftrightarrow B)\wedge(B'\vee C)'$.
 
-Jan Hora Výroková logika
+### Řešení: Pravdivostní tabulka formule $(A' \Leftrightarrow B) \wedge (B' \vee C)'$
 
-## [Page 15]
-Jak jsem potkal logiku Základní pojmy
+| $A$ | $B$ | $C$ | $A'$ | $B'$ | $A' \Leftrightarrow B$ | $B' \vee C$ | $(B' \vee C)'$ | $\varphi$ Výsledek: $(A' \Leftrightarrow B) \wedge (B' \vee C)'$ |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | 1 | 1 | 0 | 0 | 0 | 1 | 0 | **0** |
+| 1 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | **0** |
+| 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | **0** |
+| 1 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | **0** |
+| 0 | 1 | 1 | 1 | 0 | 1 | 1 | 0 | **0** |
+| 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | **1** |
+| 0 | 0 | 1 | 1 | 1 | 0 | 1 | 0 | **0** |
+| 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | **0** |
 
-**Ohodnotit znamená dosadit**
+2 na počet neznámích je počet řádků
+
+## Ohodnotit znamená dosadit
 
 **Definice**
-Ohodnocení formule je přiřazení hodnoty pravda či nepravda ($0$ či $1$) každé výrokové proměnné obsažené v této formuli.
 
-Jan Hora Výroková logika
-
-## [Page 16]
-Jak jsem potkal logiku Základní pojmy
+**Ohodnocení** formule je přiřazení hodnoty pravda či nepravda ($0$ či $1$) každé výrokové proměnné obsažené v této formuli.
 
 **Absolutní pravda, absolutní lež**
 
 **Definice**
 Tautologie je formule, která je pravdivá při každém ohodnocení.
+
+**Příklad tautologie**
+
+$A \vee A'$, $A \Rightarrow A$, $A \Leftrightarrow A$, nebo 1
+
 Tedy formule, která má ve všech řádcích pradivostní tabulky jedničky.
 
 **Definice**
 Kontradikce (spor) je formule, která je při každém ohodnocení nepravdivá.
+
 Tedy formule, která má ve všech řádcích pradivostní tabulky nuly.
+**Příklady**
+$A \wedge A'$ nebo 0
 
-Jan Hora Výroková logika
-
-## [Page 17]
-Jak jsem potkal logiku Základní pojmy
 
 **Není ekvivalence jako ekvivalence**
 
@@ -280,15 +246,11 @@ Napište pravdivostní tabulku formule $(A\vee B'\vee C')\Rightarrow(A\wedge B)$
 Někdy se tautologie/kontradikce značí jen symbolem $1/0$
 
 **Definice**
-Formule se nazývá splnitelná, pokud existuje ohodnocení, při kterém je její pravdivostní hodnota $1$.
+Formule se nazývá **splnitelná**, pokud existuje ohodnocení, při kterém je její pravdivostní hodnota $1$.
 
 **Definice**
-Dvě formule (řekněme $\varphi$ a $\psi$) se nazývají ekvivalentní, pokud nabývají stejné pravdivostní hodnoty při všech ohodnoceních (mají stejnou pravdivostní tabulku). Značíme $\varphi\equiv\psi$.
+Dvě formule (řekněme $\varphi$ a $\psi$) se nazývají **ekvivalentní**, pokud nabývají stejné pravdivostní hodnoty při všech ohodnoceních (mají stejnou pravdivostní tabulku). Značíme $\varphi\equiv\psi$.
 
-Jan Hora Výroková logika
-
-## [Page 18]
-Jak jsem potkal logiku Základní pojmy
 
 **Příklady**
 
@@ -299,11 +261,60 @@ Zjistěte, zda jsou následující formule ekvivalentní
 3. $\varphi=A\Rightarrow(B\Rightarrow(C\Rightarrow(D\Rightarrow E)))$, $\psi=A\vee B\vee C\vee D\vee E$,
 4. $\varphi=(A\vee B)'$, $\psi=A'\wedge B'$.
 
-Jan Hora
-Výroková logika
+Podle definice se dvě formule nazývají ekvivalentní ($\varphi \equiv \psi$), pokud nabývají stejné pravdivostní hodnoty při všech ohodnoceních.
 
-## [Page 19]
-Jak jsem potkal logiku Základní pojmy
+čtvrtina je 1 nebo 0 třeba u A a B je 1/4 1 
+
+### 1. $\varphi=\neg(\neg A)$, $\psi=A$
+
+| A | $\neg A$ | $\varphi = \neg(\neg A)$ | $\psi = A$ |
+|:-:|:-:|:-:|:-:|
+| 1 | 0 | 1 | 1 |
+| 0 | 1 | 0 | 0 |
+
+**Závěr:** Formule **jsou ekvivalentní** ($\varphi \equiv \psi$). Obě sloupce mají shodné hodnoty.
+
+---
+
+### 2. $\varphi=A\wedge(B\vee C)$, $\psi=(A\wedge B)\vee(A\wedge C)$
+
+| A | B | C | $B \vee C$ | $\varphi = A \wedge (B \vee C)$ | $A \wedge B$ | $A \wedge C$ | $\psi = (A \wedge B) \vee (A \wedge C)$ |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | 1 | 1 | 1 | **1** | 1 | 1 | **1** |
+| 1 | 1 | 0 | 1 | **1** | 1 | 0 | **1** |
+| 1 | 0 | 1 | 1 | **1** | 0 | 1 | **1** |
+| 1 | 0 | 0 | 0 | **0** | 0 | 0 | **0** |
+| 0 | 1 | 1 | 1 | **0** | 0 | 0 | **0** |
+| 0 | 1 | 0 | 1 | **0** | 0 | 0 | **0** |
+| 0 | 0 | 1 | 1 | **0** | 0 | 0 | **0** |
+| 0 | 0 | 0 | 0 | **0** | 0 | 0 | **0** |
+
+**Závěr:** Formule **jsou ekvivalentní** ($\varphi \equiv \psi$). Hodnoty sloupců pro $\varphi$ a $\psi$ jsou ve všech řádcích totožné.
+
+---
+
+### 3. $\varphi=A\Rightarrow(B\Rightarrow(C\Rightarrow(D\Rightarrow E)))$, $\psi=A\vee B\vee C\vee D\vee E$
+
+Zde není nutné vypisovat celou pravdivostní tabulku (měla by 32 řádků). Stačí najít jediné ohodnocení, kde se výsledky obou formulí liší. Zvolme ohodnocení, kde jsou všechny proměnné nepravdivé ($A=0, B=0, C=0, D=0, E=0$):
+
+* Dosazení do $\psi$: $0 \vee 0 \vee 0 \vee 0 \vee 0 = \mathbf{0}$
+* Dosazení do $\varphi$: $0 \Rightarrow (0 \Rightarrow (0 \Rightarrow (0 \Rightarrow 0)))$
+  Podle pravidel pro implikaci platí, že z nepravdy (0) vyplývá cokoliv a výsledek je pravda (1). Tedy i celá tato implikace začínající $0 \Rightarrow \dots$ je rovna $\mathbf{1}$.
+
+**Závěr:** Formule **nejsou ekvivalentní** ($\varphi \not\equiv \psi$). Například pro ohodnocení ze samých nul je $\varphi = 1$, ale $\psi = 0$.
+
+---
+
+### 4. $\varphi=(A\vee B)'$, $\psi=A'\wedge B'$
+
+| A | B | $A \vee B$ | $\varphi = (A \vee B)'$ | $A'$ | $B'$ | $\psi = A' \wedge B'$ |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | 1 | 1 | **0** | 0 | 0 | **0** |
+| 1 | 0 | 1 | **0** | 0 | 1 | **0** |
+| 0 | 1 | 1 | **0** | 1 | 0 | **0** |
+| 0 | 0 | 0 | **1** | 1 | 1 | **1** |
+
+**Závěr:** Formule **jsou ekvivalentní** ($\varphi \equiv \psi$). (Jedná se o tzv. de Morganovo pravidlo).
 
 **Jak je to s tím makléřem?**
 

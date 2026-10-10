@@ -209,6 +209,8 @@ $\rightarrow$ Logika je vědecká disciplína o správném uvažování (usuzov�
 | Shefferův operátor | NAND                | $\uparrow$        | Není pravda, že prší a svítí sluníčko. (opak konjunkce)    |
 | Piercova šipka     | NOR                 | $\downarrow$      | Není pravda, že prší nebo svítí sluníčko. (opak disjunkce) |
 
+![alt text](image.png)
+
 **_Další spojky významy:_**
 
 Konjunkce ($\wedge$)
@@ -299,7 +301,7 @@ to do: zkusit si pravivostni hodnotu slozeneho vyroku
 
 **Důležité ekvivalence:**
 
-(![alt text](image.png))
+
 
 - **Zákon dvojí negace:** $\neg(\neg a) \equiv a$
 
@@ -322,6 +324,8 @@ to do: zkusit si pravivostni hodnotu slozeneho vyroku
 
   - $a \Leftrightarrow b \equiv (a \Rightarrow b) \wedge (b \Rightarrow a)$
 
+
+![alt text](image-1.png)
 ### Logický důsledek
 
 Z výroků $P = \{v_1, v_2, ..., v_n\}$ logicky vyplývá výrok $d$ ($P \Rightarrow d$) právě tehdy, když pro všechna pravdivá ohodnocení všech výroků v množině $P$ je výrok $d$ také pravdivý. Tedy když formule $(v_1 \wedge v_2 \wedge ... \wedge v_n) \Leftrightarrow d$ je tautologie.
@@ -369,7 +373,7 @@ je $X$ důsledkem - to $X$ bude závěr
 - 1 byte = 8 bitů ($2^8 = 256$ možných rozdílných stavů, binárně čísla 0 – 255).
 
 - Základní jednotka, se kterou obvykle počítače pracují (ukládání do paměti, na disk).
-  ![alt text](image-1.png)
+  ![alt text](image-2.png)
 
 ### Jednotka - půlbyte (půlbajt)
 
@@ -379,7 +383,7 @@ je $X$ důsledkem - to $X$ bude závěr
 
 - 1 byte lze tedy vyjádřit dvojicí šestnáctkových číslic.
 
-![alt text](image-2.png)
+
 
 ### Vyšší informatické jednotky
 
@@ -396,4 +400,5 @@ Na rozdíl od fyzikálních jednotek, kde se používají mocniny 10, se v infor
 - **peta- (P):** Fyzikální $10^{15}$, Informatické $2^{50}$
 
 Zlomky (mili, mikro) nemají pro informatické jednotky smysl.
+
 ![alt text](image-3.png)
