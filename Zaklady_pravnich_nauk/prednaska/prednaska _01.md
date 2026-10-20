@@ -45,53 +45,13 @@
         ├── Postup aplikace (stanovit problém -> vymezit úpravu -> aplikovat normu)
         └── Analogie (podle zákona, podle práva)
 </pre>
-# Klíčové otázky
-## 1. Kde se právo vzalo a co to vůbec je?
-**Příběh vývoje:** 
-
-Lidé spolu nejdřív žili jen tak – platila morálka, etika a zvyky (to je to širší pojetí). Když se ale lidé začali hádat, tak morálka nestačila, protože každý si ji vykládal jinak. Proto společnost vybrala to nejdůležitější a dala tomu pevná, psaná pravidla, která všichni musí dodržovat – a stát je hlídá a trestá (to je to úzké pojetí, tedy právo).   
-
-**Klíčová myšlenka** pro rozhovor: „Právo je zkrátka formalizovaná morálka, kterou stát zaručuje a v případě nutnosti vynutí silou.“
 
 
-## Právo a jeho význam ve společnosti
+## Právo
 
-**Širší význam** - (společnost, morálka, etika)
+<mark>Definice</mark>
 
-**Užší význam** - právo, zákony (opora právních předpisů)
-
-co se osvěčilo ze širšího přešlo do užšího
-
-## 2. Jak právo funguje v praxi? (Stavební kameny)
-
-**Objektivní vs. subjektivní právo:**
-
-Objektivni právo je celý ten balík zákonů (právní řád), který někde leží.   Subjektivní právo (pro každého jiná) je to, co z toho balíku patří tobě – tvoje osobní oprávnění (např. „mám právo reklamovat boty“).   
-
-**Hmotné vs. procesní právo:**
-
-Hmotné říká, co můžeš a co nesmíš (pravidla chování, např. v občanském zákoníku). Procesní říká, jakým postupem se toho domůžeš (jak probíhá soud, úřední řízení). Nastává když je hmotné porušeno.  
-
-**Soukromé vs. veřejné právo:**
-
-V soukromém právu jsme si všichni rovni (já a soused, kupní smlouva, stát jako právnická osoba). Ve veřejném právu je stát nahoře a ty dole – stát ti diktuje podmínky a ty musíš poslechnout (policie, pokuta, daně).  
-
-obžaloba je trestní
-
-žaloba je občanský
-
-## 3. Jak se píše a čte zákon? (Právní norma)
-Každá právní norma (každé pravidlo) má svou vnitřní kostru – trichotomickou strukturu:   
-
-1. Hypotéza (Kdy?): Podmínka nebo okruh lidí, na které se to vztahuje (např. „Když je člověku 18 let...“).
-
-2. Dispozice (Co má dělat?): Samotné pravidlo chování (příkaz, zákaz, dovolení) (např. „...může volit ve volbách“).   
-
-3. Sankce (Co se stane, když to porušíš?): Trest nebo nepříznivý následek (pokuta, náhrada škody).
-
-* A k tomu časová rovina: Zákon musí nejdřív projít platností (vyjde ve Sbírce zákonů, už existuje) a pak nastane účinnost (odkdy se jím opravdu musíš řídit).
-
-Zkus si to představit na úplně obyčejné situaci, třeba na krádeži v obchodě:Morálka: Krást se nemá (to je širší rovina).   Hmotné právo (trestní zákoník): Říká, že krádež je trestný čin (hmotná norma).Procesní právo: Popisuje, jak tě policie zatkne a jak proběhne soud (procesní norma).Veřejné právo: Stát (policie/soudce) vystupuje z pozice moci proti tobě.
+* Právo je soubor pravidel chování, kterými se řídí společnost a jejichž dodržování je vynutitelné státní mocí.
 
 ## 1. Historické kořeny práva
 
@@ -109,21 +69,13 @@ Základ moderních právních systémů
 
 Jak správně říkáš, bylo neuvěřitelně nadčasové. Římané se odtrhli od čistého náboženského diktátu a začali právo stavět na logice, racionálních principech a ochraně majetku či smluv. Zákon XII desek byla vůbec první významná písemná kodifikace římského práva vyrytá na dvanácti dřevěných deskách, aby ji každý viděl na fóru. Na Římského práva staví dnešní kontinentální právní systém (včetně našeho).
 
-**Rozdělení na soukromé a veřejné právo:**
+**Justiniánův kodex (Codex Iustinianus)** 
 
-Právě staří Římané přišli s tímto klíčovým rozdělením, které používáme dodnes – tedy rozdílem mezi tím, co řeší vztahy lidí mezi sebou (soukromé), a tím, co se týká státu a moci (veřejné).
+je základní sbírka římského práva, kterou nechal v 6. století sepsat byzantský císař Justinián I. Je součástí rozsáhlejší kodifikace známé jako Corpus iuris civilis
 
-**Jak se ze zvykového práva stalo právo psané?**
+**rozlišovalo mezi civilním právem a církevním právem**
 
-Vysvětlení: Jak už jsme nakousli dřív, zpočátku si lidé vystačili s ústními tradicemi a zvyky ("dělá se to takhle, protože to tak dělali naši předci"). S tím, jak se státy zvětšovaly a lidé z různých koutů spolu začali víc obchodovat, ale zvyky nestačily – každý kout mohl mít jiné. Proto stát musel pravidla sepsat, vydat je oficiálně na papíře (nebo deskách) a nastavit pro všechny stejný metr.
 
-**Státy a právo: cesta od chaosu k řádu**
-
-Vysvětlení: To je shrnutí celé té myšlenky. Kde není jasné právo a pravidla, tam vládne vůle silnějšího a chaos. Vznik státu a práva šly ruku v ruce – stát potřebuje nástroj (právo), kterým drží společnost pohromadě, řeší spory a zajišťuje, že lidé mohou bezpečně fungovat.
-
-**Právo nejvíce rozkvetlo ve starověkém Římě, kde se rozlišovalo mezi civilním právem (ius civilis) a církevním právem (ius canonicum)**
-
-Jak to chápat: Římané posunuli právo na úplně novou úroveň, přičemž dělili pravidla na občanská (světská) a církevní.   
 
 **Římské právo také rozlišovalo mezi soukromým (ius privatum) a veřejným právem (ius publicum)**
 
@@ -133,14 +85,15 @@ Jak to chápat: Toto základní rozdělení na vztahy mezi rovnými lidmi (soukr
 
 **Základní rozdělení:**
 
+
 Většina států na světě staví své právo na jednom ze tří hlavních typů právní kultury, případně na jejich kombinaci.
 
 **Tři hlavní pilíře světa:**
 
 1. **Kontinentální evropské právo** (psané zákony, kodexy – to, co máme v ČR).   
-   * **Základ:** Stojí na recepci (převzetí) starověkého římského práva.   
-   * **Pramen:** Hlavním pramenem je psaný právní předpis (zákon, kodex).   
-   * **Role soudu:** Soudci u nás právo netvoří – jejich úkolem je existující právní normy pouze aplikovat (použít na konkrétní případ). 
+  * **Základ:** Stojí na recepci (převzetí) starověkého římského práva.   
+  * **Pramen:** Hlavním pramenem je psaný právní předpis (zákon, kodex).   
+  * **Role soudu:** Soudci u nás právo netvoří – jejich úkolem je existující právní normy pouze aplikovat (použít na konkrétní případ). 
 
 2. **Angloamerické právo** (soudní precedenty, zvyklosti v USA nebo Velké Británii). 
 
@@ -166,11 +119,11 @@ Většina států na světě staví své právo na jednom ze tří hlavních typ
 
   * **Přirozené právo:** 
     
-    Soubor nezadatelných principů a lidských práv, která člověk má už od narození jen proto, že je člověk (např. právo na život, na svobodu), nezávisle na tom, co píší zákony.
+    Soubor principů vycházejících z přirozených práv člověka
 
    * **Pozitivní (platné) právo:** 
    
-    Konkrétní soubor norem a zákonů, které vydal stát a které jsou státem oficiálně vynucovány.
+    Soubor norem vydaných státem, jejichž dodržování je státem vynucováno.
 
 ### 3.2 Objektivní vs. subjektivní právo:
 
@@ -213,6 +166,10 @@ Většina států na světě staví své právo na jednom ze tří hlavních typ
   * **Základní pravidlo chování:** 
   
     Platí zde zásada autonomie: „Občan může jednat tak, jak mu zákon nezakazuje, a není povinen činit to, co mu zákon neukládá.“
+
+    * **Občanské**
+    * **Obchodní**
+    * **Pracovní**
   
   * **Veřejné právo:** 
   
@@ -223,6 +180,11 @@ Většina států na světě staví své právo na jednom ze tří hlavních typ
     * Státní orgány jsou vázány zákonem a mohou jednat pouze v jeho mezích.
 
     * **Vázanost zákonem:** Zatímco občan v soukromém právu může dělat vše, co mu zákon nezakazuje, státní orgány jsou naopak vázány zákonem a mohou jednat pouze v jeho mezích
+
+    * **Správní**
+    * **Trestní**
+    * **Finanční**
+
   
   
 
@@ -528,4 +490,53 @@ Občanský soudní řád ()
 
 občanský zákoník
 
+
+
+# Klíčové otázky
+## Kde se právo vzalo a co to vůbec je?
+**Příběh vývoje:** 
+
+Lidé spolu nejdřív žili jen tak – platila morálka, etika a zvyky (to je to širší pojetí). Když se ale lidé začali hádat, tak morálka nestačila, protože každý si ji vykládal jinak. Proto společnost vybrala to nejdůležitější a dala tomu pevná, psaná pravidla, která všichni musí dodržovat – a stát je hlídá a trestá (to je to úzké pojetí, tedy právo).   
+
+**Klíčová myšlenka** pro rozhovor: „Právo je zkrátka formalizovaná morálka, kterou stát zaručuje a v případě nutnosti vynutí silou.“
+
+
+## Právo a jeho význam ve společnosti
+
+**Širší význam** - (společnost, morálka, etika)
+
+**Užší význam** - právo, zákony (opora právních předpisů)
+
+co se osvěčilo ze širšího přešlo do užšího
+
+## Jak právo funguje v praxi? (Stavební kameny)
+
+**Objektivní vs. subjektivní právo:**
+
+Objektivni právo je celý ten balík zákonů (právní řád), který někde leží.   Subjektivní právo (pro každého jiná) je to, co z toho balíku patří tobě – tvoje osobní oprávnění (např. „mám právo reklamovat boty“).   
+
+**Hmotné vs. procesní právo:**
+
+Hmotné říká, co můžeš a co nesmíš (pravidla chování, např. v občanském zákoníku). Procesní říká, jakým postupem se toho domůžeš (jak probíhá soud, úřední řízení). Nastává když je hmotné porušeno.  
+
+**Soukromé vs. veřejné právo:**
+
+V soukromém právu jsme si všichni rovni (já a soused, kupní smlouva, stát jako právnická osoba). Ve veřejném právu je stát nahoře a ty dole – stát ti diktuje podmínky a ty musíš poslechnout (policie, pokuta, daně).  
+
+obžaloba je trestní
+
+žaloba je občanský
+
+## Jak se píše a čte zákon? (Právní norma)
+Každá právní norma (každé pravidlo) má svou vnitřní kostru – trichotomickou strukturu:   
+
+1. Hypotéza (Kdy?): Podmínka nebo okruh lidí, na které se to vztahuje (např. „Když je člověku 18 let...“).
+
+2. Dispozice (Co má dělat?): Samotné pravidlo chování (příkaz, zákaz, dovolení) (např. „...může volit ve volbách“).   
+
+3. Sankce (Co se stane, když to porušíš?): Trest nebo nepříznivý následek (pokuta, náhrada škody).
+
+* A k tomu časová rovina: Zákon musí nejdřív projít platností (vyjde ve Sbírce zákonů, už existuje) a pak nastane účinnost (odkdy se jím opravdu musíš řídit).
+
+Zkus si to představit na úplně obyčejné situaci, třeba na krádeži v obchodě:Morálka: Krást se nemá (to je širší rovina).   Hmotné právo (trestní zákoník): Říká, že krádež je trestný čin (hmotná norma).Procesní právo: Popisuje, jak tě policie zatkne a jak proběhne soud (procesní norma).Veřejné právo: Stát (policie/soudce) vystupuje z pozice moci proti tobě.
 
