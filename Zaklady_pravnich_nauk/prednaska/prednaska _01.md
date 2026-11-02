@@ -49,9 +49,17 @@
 
 ## Právo
 
-<mark>Definice</mark>
+**Definice**
 
 * Právo je soubor pravidel chování, kterými se řídí společnost a jejichž dodržování je vynutitelné státní mocí.
+
+## Význam práva
+
+**Širší význam (Materiální / Zvykové právo)**
+
+**Původ** Vychází ze zvyku, tradic, morálky a společenských pravidel.
+**Charakteristika** Jsou to pravidla, která lidi dodružují
+
 
 ## 1. Historické kořeny práva
 
@@ -92,7 +100,7 @@ Většina států na světě staví své právo na jednom ze tří hlavních typ
 
 1. **Kontinentální evropské právo** (psané zákony, kodexy – to, co máme v ČR).   
   * **Základ:** Stojí na recepci (převzetí) starověkého římského práva.   
-  * **Pramen:** Hlavním pramenem je psaný právní předpis (zákon, kodex).   
+  * **Pramen:** Hlavním pramenem je psaný právní předpis (zákon, kodex). Soudní rozhodnutí podpůrný pramen. 
   * **Role soudu:** Soudci u nás právo netvoří – jejich úkolem je existující právní normy pouze aplikovat (použít na konkrétní případ). 
 
 2. **Angloamerické právo** (soudní precedenty, zvyklosti v USA nebo Velké Británii). 
