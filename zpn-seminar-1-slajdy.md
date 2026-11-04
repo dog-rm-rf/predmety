@@ -1,17 +1,94 @@
 # ZPN – 1. seminář: Právní normy, platnost a účinnost, publikace, aplikace, analogie, interpretace
 
-## Snímek 2: Opakování
+## Opakování
 ### Vysvětlete základní pojmy:
 * Dualismus práva
 * Objektivní x subjektivní právo
 * Přirozené x pozitivní právo
 * Veřejné x soukromé právo
 * Hmotné x procesní právo
+* Relativní x absulutní
 * Systém práva
+
+## Dualismus práva
+
+### Obektivní vs Subjektivní právo
+
+* **Objektivní právo(PRAVIDLA HRY):** Souhrn nebo systém platných právních norem, jejichž plnění je vynutitelné státní mocí. Je totožné s právním řádem konkrétního státu 
+
+* **Právní řád konkrétního státu** = souhrn všech právních norem, které jsou v daném časovém období na území konkrétního státu platné (objektivní právo)
+
+* **Subjektivní právo:(MŮJ TAH)** Oprávnění jednotlivce vyplývající z právní normy (objektivního práva). 
+* Subjektivní právo je to, co adresát právní normy (objektivního práva) může učinit (jak může jednat), neboť mu to objektivní právo dovoluje
+
+
+### Přirozené x pozitivní právo
+
+* **Přirozené právo:(LIDSKOST)** Soubor principů vycházejících z přirozených práv člověka.
+
+* **Pozitivní (platné) právo(ZÁKON):** Soubor norem vydaných státem, jejichž dodržování je státem vynucováno.
+
+### Veřejné x soukromé právo
+
+* **Veřejné právo (NADŘAZENOST STÁTU):** Vztah mezi státem a občanem. Stát vystupuje z pozice moci, určuje povinnosti a trestá (např. trestní právo, daně, stavební zákon).
+
+* Státní orgány jsou vázány zákonem a mohou jednat pouze v jeho mezích.
+
+
+* **Soukromé právo (ROVNOST STRAN):** Vztah mezi dvěma rovnocennými partnery (občan–občan nebo občan–firma). Záleží na jejich dohodě a smlouvě (např. kupní smlouva, nájem, manželství).
+
+* Občan může jednat tak, jak mu zákon nezakazuje, a není povinen činit to, co mu zákon neukládá.
+
+
+### Hmotné x procesní právo
+
+* **Hmotné právo (CO):** Určuje konkrétní práva, povinnosti a pravidla – co smíš, co nesmíš, co komu patří a co je trestné.
+
+* **Procesní právo (JAK):** Určuje pravidla postupu a řízení – jak se svých práv domoci u soudu, jak podat žalobu, jak probíhá vyšetřování nebo jak stát trestá porušení hmotného práva.
+
+### Relativní x absulutní
+
+Rozdíl je v tom, vůči komu právo platí (kdo má vůči tobě povinnost):
+
+**Relativní právo (jen vůči konkrétní osobě – inter partes)**
+
+* **Definice:** Právo, které platí jen mezi konkrétně určenými lidmi.   
+* **Princip:** Máš právo něco požadovat jen po jedné konkrétní osobě.   
+* **Příklad:** Půjčíš Petrovi 1 000 Kč. Právo na vrácení peněz máš jen vůči Petrovi (nemůžeš požadovat vrácení po jeho sousedovi ani po náhodném kolemjdoucím).
+
+**Absolutní právo (vůči všem na světě – erga omnes)**
+* **Definice:** Právo, které musí respektovat všichni ostatní lidé bez výjimky.   
+* **Princip:** Všichni ostatní mají povinnost ti do tvého práva nezasahovat a nekazit ti ho.   
+* **Příklad:** Vlastnictví telefonu nebo tvé právo na život. Všichni lidé na světě mají povinnost ti tvůj telefon nekrást a nekovat na něj nárok.
+
+
+**Relativní** = Relativně úzký okruh lidí (jen ten, s kým máš smlouvu/dohodu).
+
+**Absolutní** = Absolutně všichni na světě.
+
+
+### Systém práva
+
+Uspořádání všech právních norem do jednoho logického celku. Dělí se podle dvou hlavních hledisek:
+
+**1. Podle právní síly (hierarchie):**
+
+* Ústava a ústavní zákony (nejvyšší síla)
+
+* Běžné zákony (přijaté parlamentem)
+
+* Podzákonné předpisy (vyhlášky ministerstev, nařízení vlády, městské vyhlášky)
+
+**2. Podle odvětví:**
+
+* Soukromé: občanské, obchodní, pracovní právo.
+
+* Veřejné: trestní, správní, finanční právo.
+
 
 ---
 
-## Snímek 3: Právní norma
+## Právní norma
 ### Otázky k diskuzi:
 * Co si představujeme pod pojmem „právní norma“?
 * Jaké má právní norma znaky?
@@ -22,7 +99,7 @@
 
 ---
 
-## Snímek 4: Mody normativnosti a charakteristické znaky
+## Mody normativnosti a charakteristické znaky
 ### Mody normativnosti:
 * **Objektivní:**
   * Příkaz
@@ -40,7 +117,7 @@
 
 ---
 
-## Snímek 5: Struktura právní normy
+## Struktura právní normy
 ### Otázky k diskuzi:
 * Jaká je struktura právní normy?
 * Co si pod tímto pojmem představujete?
@@ -54,7 +131,7 @@
 
 ---
 
-## Snímek 6: Trichotomie a Hypotéza
+## Trichotomie a Hypotéza
 ### Trichotomická (trojčlenná) struktura:
 * Tradičně se vychází z toho, že struktura právní normy má podobu podmíněné věty (implikace):
   * *Jestliže je $p$ (hypotéza), pak nastává $q$ (dispozice); není-li $q$, nastupuje $r$ (sankce).*
@@ -69,7 +146,7 @@
 
 ---
 
-## Snímek 7: Dispozice a Sankce
+## Dispozice a Sankce
 ### Dispozice:
 * Vyjádření příkazu, zákazu, dovolení nebo práva (nároku).
 * Zakládá za podmínek určených hypotézou závazkový vztah mezi osobami (stranami), tedy komplementární (vzájemně se doplňující) práva a povinnosti.
@@ -83,7 +160,7 @@
 
 ---
 
-## Snímek 8: Klasifikace právních norem (dle způsobu vymezení pravidla)
+## Klasifikace právních norem (dle způsobu vymezení pravidla)
 ### Podle způsobu vymezení pravidla chování:
 1. **Přikazující:** určují, jak se chovat.
 2. **Zakazující:** zakazují určitý druh chování.
@@ -93,7 +170,7 @@
 
 ---
 
-## Snímek 9: Klasifikace právních norem (dle stupně závaznosti)
+## Klasifikace právních norem (dle stupně závaznosti)
 ### Podle stupně závaznosti:
 * **Kogentní (kategorické):**
   * Formulovány natolik imperativně, že nedávají žádný prostor pro vůli adresáta normy. Ten musí přesně ustanovení normy naplnit.
@@ -106,25 +183,25 @@
 
 ---
 
-## Snímek 10: Příklady kogentních a dispozitivních norem
+## Příklady kogentních a dispozitivních norem
 ### Příklad 1 (Kogentní norma):
 * **§ 16 zákona č. 262/2006 Sb., zákoník práce** (*Rovné zacházení se zaměstnanci, zákaz diskriminace*):
   > *(1) „Zaměstnavatelé jsou povinni zajišťovat rovné zacházení se všemi zaměstnanci, pokud jde o jejich pracovní podmínky, odměňování za práci a o poskytování jiných peněžitých plnění a plnění peněžité hodnoty, o odbornou přípravu a o příležitost dosáhnout funkčního nebo jiného postupu v zaměstnání.“*
 
-### Příklad 2 (Dispozitivní norma / kombinovaná):
+### (Dispozitivní norma / kombinovaná):
 * **§ 1963 OZ** (*Splatnost bez výzvy*):
   > *(2) „Smluvní strany si mohou ujednat dobu splatnosti delší šedesáti dnů jen tehdy, pokud to není vůči věřiteli hrubě nespravedlivé. Je-li však obsahem závazku podnikatele povinnost dodat zboží nebo službu veřejnoprávní korporaci, smluvní strany si mohou ujednat delší dobu splatnosti jen tehdy, pokud je to odůvodněno povahou závazku, a doba splatnosti nesmí přesáhnout šedesát dní.“*
 
 ---
 
-## Snímek 11: Otázky k diskuzi – Působnost norem
+## Otázky k diskuzi – Působnost norem
 * Uveďte, na jaký okruh osob se vztahuje občanský zákoník?
 * Na jakém území působí nařízení kraje? Na jaké osoby se vztahuje?
 * Naleznete zákon, který se vztahuje pouze na určitou skupinu obyvatel?
 
 ---
 
-## Snímek 12: Působnost právní normy – Úvod
+## Působnost právní normy – Úvod
 * **Definice:** Působností právní normy se rozumí vymezení rozsahu realizace a aplikace právní normy.
 * **4 roviny působnosti:**
   1. Věcná působnost
@@ -134,14 +211,14 @@
 
 ---
 
-## Snímek 13: Věcná působnost
+## Věcná působnost
 * Týká se skutkové charakteristiky případů, které právní norma (nebo jejich souhrn, tedy právní institut) upravuje.
 * **Normy obecné (*lex generalis*):** s obecnou působností – vztahují se na větší počet stejných případů.
 * **Normy speciální (*lex specialis*):** se zvláštní působností – upravují odlišně věcně shodnou problematiku (má přednost před obecnou úpravou).
 
 ---
 
-## Snímek 14: Prostorová působnost
+## Prostorová působnost
 * Vychází z teritoriální působnosti orgánů veřejné moci, které vydávají či oficiálně uznávají příslušné právní normy.
 * **Celostátní působnost:** právní normy platné na celém území státu (např. zákony).
 * **Lokální působnost:** právní normy platné na vymezeném území (např. nařízení rady kraje či obecně závazná vyhláška obce).
@@ -149,7 +226,7 @@
 
 ---
 
-## Snímek 15: Osobní působnost
+## Osobní působnost
 * Založena na principu rovnosti před zákonem.
 * Spočívá v druhovém vymezení právních subjektů v hypotéze právní normy (na které osoby norma platí).
 * Součástí je i možnost stanovit imunita a exempce (a vymezit jejich rozsah) pro určité skupiny právních subjektů:
@@ -163,7 +240,7 @@
 
 ---
 
-## Snímek 16: Časová působnost (Platnost a Účinnost)
+## Časová působnost (Platnost a Účinnost)
 * Souvisí s platností a účinností právního předpisu.
 * **Platnost:**
   * Nastává dnem publikace ve Sbírce zákonů.
@@ -174,7 +251,7 @@
 
 ---
 
-## Snímek 17: Publikační orgány
+## Publikační orgány
 * **Sbírka zákonů (Sb.):** vyhlašování zákonem stanovených právních předpisů (zákon č. 309/1999 Sb., o Sbírce zákonů a o Sbírce mezinárodních smluv).
 * **Sbírka mezinárodních smluv (Sb. m. s.):** sdělením MZV se vyhlašují zejména platné mezinárodní smlouvy, jejich oznámení/výpovědi a rozhodnutí mezinárodních orgánů.
 * **Věstník kraje:** vyhlášení obecně závazných vyhlášek kraje a nařízení kraje.
@@ -183,7 +260,7 @@
 
 ---
 
-## Snímek 18: Publikování ve Sbírce zákonů
+## Publikování ve Sbírce zákonů
 Ve Sbírce zákonů jsou vyhlašovány:
 * Ústavní zákony
 * Zákony
@@ -193,7 +270,7 @@ Ve Sbírce zákonů jsou vyhlašovány:
 
 ---
 
-## Snímek 19: Formální vlastnosti a citace ve Sbírce zákonů
+## Formální vlastnosti a citace ve Sbírce zákonů
 * Vydává se v číslovaných částkách – chronologické číslování v každém roce dle vydání (v elektronické i písemné podobě).
 * Obsah předpisu uspořádán do číslovaných paragrafů (§), členění na odstavce a písmena.
 * **Formát citace:** číslo předpisu / rok vydání Sb., název
@@ -205,7 +282,7 @@ Ve Sbírce zákonů jsou vyhlašovány:
 
 ---
 
-## Snímek 20: Aplikace právních norem
+## Aplikace právních norem
 * **Definice:** Používání právní normy státními orgány, ale i chování fyzických a právnických osob podle práva.
 * **Postup aplikace:**
   1. **Zjištění skutkového stavu** (bezprostředně, dokazováním).
@@ -214,7 +291,7 @@ Ve Sbírce zákonů jsou vyhlašovány:
 
 ---
 
-## Snímek 21: Řešení případů výslovně neupravených (Analogie)
+## Řešení případů výslovně neupravených (Analogie)
 * Při vydávání zákona nelze přihlédnout ke všem případům, které mohou nastat.
 * Státní orgán (soud), který věc posuzuje, však **není oprávněn odmítnout řešení věci** (*zákaz denegatio iustitiae*).
 * **Rozhodování dle analogie:**
@@ -224,7 +301,7 @@ Ve Sbírce zákonů jsou vyhlašovány:
 
 ---
 
-## Snímek 22: Příklady analogie v soukromém právu
+## Příklady analogie v soukromém právu
 * Soukromé právo je v aplikaci analogie zákona benevolentní.
 * **Výslovné připuštění v § 10 odst. 1 Občanského zákoníku:**
   > *„Nelze-li právní případ rozhodnout na základě výslovného ustanovení, posoudí se podle ustanovení, které se týká právního případu co do obsahu a účelu posuzovanému právnímu případu nejbližšího.“*
@@ -234,7 +311,7 @@ Ve Sbírce zákonů jsou vyhlašovány:
 
 ---
 
-## Snímek 23: Interpretace (výklad) právních norem
+## Interpretace (výklad) právních norem
 * Právní norma je abstraktní pravidlo chování; při uplatňování na konkrétní případ musí být vykládána / interpretována.
 * **Rozlišení podle subjektu, který výklad podává:**
   * **Legální:** obecně závazný, orgánu zmocněného k tomu ústavou (v ČR zmocnění chybí).
@@ -244,7 +321,7 @@ Ve Sbírce zákonů jsou vyhlašovány:
 
 ---
 
-## Snímek 24: Metody interpretace práva
+## Metody interpretace práva
 * Výklad práva provádí soudce. Základní výkladové metody:
   1. **Gramatická (jazyková) metoda:** přímočarý výklad právní normy z jejího textu. Vychází ze struktury věty, vztahů mezi částmi souvětí a obvyklého významu výrazů.
   2. **Systematická metoda:** studuje umístění právní normy v textu a systému předpisu (části, hlavy, oddíly, marginální rubriky) a postavení předpisu v právním odvětví či celém právním řádu.

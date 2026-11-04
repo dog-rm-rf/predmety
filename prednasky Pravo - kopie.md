@@ -99,7 +99,7 @@ Procesní právní norma konční 90% "řád". Veřejné právo má správní ř
 
 Hmotný mají ve slově zákon
 
-##Veřejné právo:
+## Veřejné právo:
 
 Správní právo:
 
@@ -113,7 +113,7 @@ Finanční právo:
 
 **Finanční zákon o daňi z příjmu**
 
-##Soukromé právo:
+## Soukromé právo:
 
 Občanské právo:
 

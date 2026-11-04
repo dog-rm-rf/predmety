@@ -53,12 +53,42 @@
 
 * Právo je soubor pravidel chování, kterými se řídí společnost a jejichž dodržování je vynutitelné státní mocí.
 
+## Právní norma: 
+
+**Definice**
+
+* Základní jednotkou pravidla chování (stavební kámen práva). Jde o závazné pravidlo chování
+
+## Zákon (Právní předpis):
+
+**Definice**
+
+* Soubor mnoha právních norem svázaných do jednoho celku.
+
+## Normativní právní akt
+
+* Nadřazená škatulka pro všechny psané právní dokumenty vydané státem (spadá sem Ústava, zákony, nařízení vlády, vyhlášky měst)
+
+## Právní odvětví: 
+
+**Definice**
+
+* Oblast práva zaměřená na konkrétní téma (občanské, trestní, pracovní...). Každé odvětví má svůj hlavní zákon (kodex).
+
 ## Význam práva
 
-**Širší význam (Materiální / Zvykové právo)**
+**1. Širší význam práva**
 
-**Původ** Vychází ze zvyku, tradic, morálky a společenských pravidel.
-**Charakteristika** Jsou to pravidla, která lidi dodružují
+* **Původ práva** vychází z dlouhodobých zvyků, tradic, morálky a společenských pravidel.
+* **Charakteristika** Jsou to pravidla, která dodržují, protože je považují za správná (mají pocit, že jsou závazná)
+* **Vývoj** Časem se ty nejdůležitější zvyky přesunou z širšího do užšího. 
+
+**2. Užší význam práva**
+
+* **Původ práva** Zvyky a pravidla, která stát oficiálně uznal a sepsal.
+* **Charakteristika** Právní normy a předpisy.
+* **Funkce** Na jejich základě státní orgány rozhodují.
+
 
 
 ## 1. Historické kořeny práva
@@ -103,6 +133,8 @@ Většina států na světě staví své právo na jednom ze tří hlavních typ
   * **Pramen:** Hlavním pramenem je psaný právní předpis (zákon, kodex). Soudní rozhodnutí podpůrný pramen. 
   * **Role soudu:** Soudci u nás právo netvoří – jejich úkolem je existující právní normy pouze aplikovat (použít na konkrétní případ). 
 
+  * Soudní řízení se řídí zákonem
+
 2. **Angloamerické právo** (soudní precedenty, zvyklosti v USA nebo Velké Británii). 
 
   * **Základ:** Stojí na „nalézání práva“ soudy (typicky Velká Británie, USA).   
@@ -129,7 +161,7 @@ Většina států na světě staví své právo na jednom ze tří hlavních typ
     
     Soubor principů vycházejících z přirozených práv člověka
 
-   * **Pozitivní (platné) právo:** 
+  * **Pozitivní (platné) právo:** 
    
     Soubor norem vydaných státem, jejichž dodržování je státem vynucováno.
 
@@ -141,9 +173,9 @@ Většina států na světě staví své právo na jednom ze tří hlavních typ
 
     **Definice**
 
-    `Souhrn nebo systém platných právních norem, jejichž plnění je vynutitelné státní mocí. Je totožné s právním řádem konkrétního státu.`
+    Souhrn nebo systém platných právních norem, jejichž plnění je vynutitelné státní mocí. Je totožné s právním řádem konkrétního státu.
 
-    `Právní řád konkrétního státu = souhrn všech právních norem, které jsou v daném časovém období na území konkrétního státu platné (objektivní právo)` 
+    **Právní řád konkrétního státu** = souhrn všech právních norem, které jsou v daném časovém období na území konkrétního státu platné (objektivní právo) 
 
   * **Subjektivní právo:** 
     
@@ -151,67 +183,114 @@ Většina států na světě staví své právo na jednom ze tří hlavních typ
 
     **Definice**
 
-    `Oprávnění jednotlivce vyplývající z právní normy (objektivního práva). Subjektivní právo je jinak řečeno zákonem garantovaná míra možného chování subjektu, adresáta právní normy (člověk, právnická osoba – obchodní společnost)`
+    Oprávnění jednotlivce vyplývající z právní normy (objektivního práva). Subjektivní právo je jinak řečeno zákonem garantovaná míra možného chování subjektu, adresáta právní normy (člověk, právnická osoba – obchodní společnost)
 
-    `Subjektivní právo je to, co adresát právní normy (objektivního práva) může učinit (jak může jednat), neboť mu to objektivní právo dovoluje`
+    Subjektivní právo je to, co adresát právní normy (objektivního práva) může učinit (jak může jednat), neboť mu to objektivní právo dovoluje
        
-### 3.3 Hmotné vs. procesní právo:
-  * **Hmotné právo:** 
+
+
+### 3.3 Hmotné vs. Procesní právo
+
+Každé právní odvětví má své předpisy (zákony), které dělíme podle toho, **co upravují**:
+
+### A. Hmotné právo (CO)
+* **Definice:** Určuje konkrétní pravidla chování, práva a povinnosti – říká, co smíš, co nesmíš, co komu patří a co je trestné.
+* **Charakteristika:** Upravuje společenské vztahy po stránce věcné.
+* **Mnemotechnické znamení:** Hmotné zákony mají téměř vždy v názvu slovo **„zákon“** nebo **„zákoník“**.
+* **Příklady:** Občanský zákoník, Trestní zákoník, Zákoník práce.
+
+### B. Procesní právo (JAK)
+* **Definice:** Určuje pravidla postupu a řízení – říká, jak postupovat před úřady a soudy při vyřizování věcí nebo při porušení hmotného práva.
+* **Charakteristika:** Nastupuje ve chvíli, kdy se právo uplatňuje nebo vymáhá.
+* **Mnemotechnické znamení:** V 90 % případů končí slovesem/podstatným jménem **„řád“**.
+* **Příklady:** Občanský soudní řád, Trestní řád, Správní řád, Daňový řád.
+
+---
+
+### 3.4 Soukromé vs. Veřejné právo
+
+Právo jako celek se dělí podle toho, **v jakém postavení jsou účastníci právního vztahu**:
+
+### A. Soukromé právo
+* **Postavení stran:** Vztahy mezi **rovnocennými subjekty** (občan–občan, občan–firma, firma–firma). Stát zde může vystupovat také, ale nemá nadřazenou pozici.
+* **Klíčové zásady:**
+  * **Zásada rovnosti stran:** Nikdo není druhému nadřízený, obě strany mají stejná práva a povinnosti.
+  * **Zásada autonomie vůle (smluvní volnost):** „Občan může jednat tak, jak mu zákon nezakazuje, a není povinen činit to, co mu zákon neukládá.“ *(Co není zakázáno, je dovoleno)*.
+* **Hlavní odvětví:** Občanské, obchodní, pracovní právo.
+
+### B. Veřejné právo
+* **Postavení stran:** Vztahy, kde je **stát v nadřízené (svrchované) pozici** vůči občanovi nebo firmě.
+* **Klíčové zásady:**
+  * **Chránění veřejného zájmu:** Stát určuje pravidla pro fungování společnosti.
+  * **Vázanost zákonem:** Státní orgány mohou jednat **pouze v mezích a způsoby, které stanoví zákon** *(Stát smí jen to, co má výslovně povoleno)*.
+* **Hlavní odvětví:** Správní, trestní, finanční, ústavní právo.
+
+---
+
+## Přehled právních odvětví a jejich zákonů
+
+### A. Soukromé právo (Rovnocenné postavení)
+
+| Právní odvětví | Hmotné právo (CO) | Procesní právo (JAK) |
+| :--- | :--- | :--- |
+| **Občanské právo** | **Občanský zákoník** | **Občanský soudní řád** *(společný)* |
+| **Obchodní právo** | **Zákon o obchodních korporacích** | **Zákon o zvláštních řízeních soudních** |
+| **Pracovní právo** | **Zákoník práce** | *(pro soukromé právo obecně)* |
+
+### B. Veřejné právo (Nadřazenost státu)
+
+| Právní odvětví | Hmotné právo (CO) | Procesní právo (JAK) |
+| :--- | :--- | :--- |
+| **Správní právo** | **Stavební zákon** *(a mnohé další)* | **Správní řád** |
+| **Trestní právo** | **Trestní zákoník** | **Trestní řád** |
+| **Finanční právo** | **Zákon o daních z příjmů** | **Daňový řád** |
+
   
-    Pravidla chování, která říkají, co smíš a nesmíš a jaká máš práva a povinnosti (např. občanský zákoník, trestní zákoník).
+### 3.5 Relativní x absulutní
 
-    Upravuje společenské vztahy po stránce věcné
+Rozdíl je v tom, vůči komu právo platí (kdo má vůči tobě povinnost):
 
-  * **Procesní právo:** Pravidla postupu, která říkají, jak se svých práv domoci před úřady či soudy (např. občanský soudní řád, trestní řád). Nastává když je hmotné porušeno.
+**Relativní právo (jen vůči konkrétní osobě – inter partes)**
 
-    Stanovuje postupy v různých typech řízení před státními orgány  
+* **Definice:** Právo, které platí jen mezi konkrétně určenými lidmi.   
+* **Princip:** Máš právo něco požadovat jen po jedné konkrétní osobě.   
+* **Příklad:** Půjčíš Petrovi 1 000 Kč. Právo na vrácení peněz máš jen vůči Petrovi (nemůžeš požadovat vrácení po jeho sousedovi ani po náhodném kolemjdoucím).
 
-### 3.4 Soukromé vs. veřejné právo:
-  * **Soukromé právo:** 
-  
-    Vztahy mezi rovnocennými subjekty (občany, firmami, ale i stát ale nemá dominantní pozici, fyzické a právní), kde platí smluvní volnost.(nikdo není nadřízení tomu druhému)
+**Absolutní právo (vůči všem na světě – erga omnes)**
+* **Definice:** Právo, které musí respektovat všichni ostatní lidé bez výjimky.   
+* **Princip:** Všichni ostatní mají povinnost ti do tvého práva nezasahovat a nekazit ti ho.   
+* **Příklad:** Vlastnictví telefonu nebo tvé právo na život. Všichni lidé na světě mají povinnost ti tvůj telefon nekrást a nekovat na něj nárok.
 
-  * **Základní pravidlo chování:** 
-  
-    Platí zde zásada autonomie: „Občan může jednat tak, jak mu zákon nezakazuje, a není povinen činit to, co mu zákon neukládá.“
 
-    * **Občanské**
-    * **Obchodní**
-    * **Pracovní**
-  
-  * **Veřejné právo:** 
-  
-    Vztahy, kde je stát v nadřízené (svrchované) pozici vůči občanovi (daně, pokuty, trestní právo). 
+**Relativní** = Relativně úzký okruh lidí (jen ten, s kým máš smlouvu/dohodu).
 
-    * Oblast veřejných zájmů, které stát reprezentuje, je v demokratické společnosti přesně vymezena.
+**Absolutní** = Absolutně všichni na světě.
 
-    * Státní orgány jsou vázány zákonem a mohou jednat pouze v jeho mezích.
 
-    * **Vázanost zákonem:** Zatímco občan v soukromém právu může dělat vše, co mu zákon nezakazuje, státní orgány jsou naopak vázány zákonem a mohou jednat pouze v jeho mezích
+### Systém práva
 
-    * **Správní**
-    * **Trestní**
-    * **Finanční**
+Uspořádání všech právních norem do jednoho logického celku. Dělí se podle dvou hlavních hledisek:
 
-  
-  
+**1. Podle právní síly (hierarchie):**
 
-  
-### 3.5 Relativní vs. absolutní právo:
-  * **Relativní právo:** 
-  
-    Vztah působící „mezi stranami“ (inter partes) – např. závazek z konkrétní smlouvy platí jen mezi tebou a tím, s uzavřel smlouvu.   
+* Ústava a ústavní zákony (nejvyšší síla)
 
-    `Subjektivní právo účastníka právního vztahu, kterému odpovídá konkrétní povinnost jiného nebo více individuálně určených účastníků.`
+* Běžné zákony (přijaté parlamentem)
 
-  * **Absolutní právo:** 
-  
-    Vztah působící „vůči všem“ (erga omnes) – např. mé vlastnické právo k autu znamená, že všichni ostatní lidé na světě mají povinnost mi do něj nezasahovat a nerušit mě. 
+* Podzákonné předpisy (vyhlášky ministerstev, nařízení vlády, městské vyhlášky)
 
-    `Odpovídá mu povinnost neurčeného počtu subjektů nerušit oprávněného ve výkonu jeho práv.`
+**2. Podle odvětví:**
+
+* Soukromé: občanské, obchodní, pracovní právo.
+
+* Veřejné: trestní, správní, finanční právo.
+
+
 
 ## 4. Prameny práva, právní normy, právní řád
 * **Co je pramenem práva:** 
+
+  **Pramen práva =** oficiální základ, který dává právnímu pravidlu jeho závaznost a autoritu (důvod, proč má stát právo jeho dodržování vymáhat).
 
   Je to forma objektivního práva, která v sobě obsahuje právní normy. Tyto formy se liší podle toho, v jakém právním systému a kultuře se nacházíme.   
 
@@ -223,7 +302,9 @@ Většina států na světě staví své právo na jednom ze tří hlavních typ
 
 2. **Soudní rozhodnutí, precedenty** – rozhodnutí soudů, která vytvářejí závazná pravidla pro budoucí případy (typické pro angloamerický systém).   
 
-3. **Právní obyčeje** – historicky vůbec nejstarší pramen práva založený na dlouhodobých tradicích.   
+3. **Právní obyčeje** – historicky vůbec nejstarší pramen práva založený na dlouhodobých tradicích. 
+
+    Je to nepsaná tradice, která má ale plnou sílu a vymahatelnost zákona.
 
 4. **Normativní smlouvy** – mezinárodní nebo kolektivní smlouvy, které regulují určitou skupinu případů.
 
@@ -428,7 +509,8 @@ Při používání právních předpisů je třeba vždy vyhodnotit:
 - Stupně právní síly.
 - Orgánu, který právní předpis vydává.
 - Formy právního předpisu.
-![alt text](image-1.png)
+
+![alt text](image.png)
 ---
 
 ## Mezinárodní právo a Právo EU v ČR
@@ -460,91 +542,9 @@ Dva publikační způsoby v České republice:
 
 **Analogie v právu:**
 
+  **Analogie =** Řešení mezeru v právu. Použití podobného pravidla na případ, který zákon výslovně neupravuje. V soukromém právu je běžná, v trestním právu v neprospěch obviněného přísně zakázaná.
+
 - **Analogie podle zákona:** použití norem, které řeší obdobné otázky.
 - **Analogie podle práva:** pokud nejsou ani obdobné právní normy, situace se řeší podle obecných právních zásad.
 
-# Moje zápisky
-Aplikace prává:
-
-    1) Kontinentální - co je psáno je dáno, právní předpisy z nich vycházíme, řídí zákonem
-
-    2) Anglosaský - anglie, irsko, rozhoduje poroto, jedou podle soudních precendentů (vydáváho soud, a pak se může tím precedentem řídít)
-
-    3) islamský - dovolává se boha
-
-Právo decenralizuje na dva soubory:
-
-Veřené a soukromé právo
-
-Veřejné - na jedné straně je stát dominantní pozici, finanční, trestní a správní. Stát x fyzické a právní
-
-Soukormé právo - Stát x fyz. a prav. os, fyz x fyz, fyz x prav, prav x prav, stát není v dominantní pozice
-
-se dělí na: Občasnký, Obchodní, Pracovní
-
-Každé zákon má svojí právní normu(hmotnou formu)
-
-každé odvětní - právní normu tedy zákon (hmotnou - zákon, procesní(končí řád) )
-
-správní řád
-
-trestní řád - proces oznámím polici, chití při činu,
-
-daňový řád
-
-Zákon o zválštním řízení soudu v něm obsahují (občanské, obchodní, pracovní)
-
-Občanský soudní řád ()
-
-občanský zákoník
-
-
-
-# Klíčové otázky
-## Kde se právo vzalo a co to vůbec je?
-**Příběh vývoje:** 
-
-Lidé spolu nejdřív žili jen tak – platila morálka, etika a zvyky (to je to širší pojetí). Když se ale lidé začali hádat, tak morálka nestačila, protože každý si ji vykládal jinak. Proto společnost vybrala to nejdůležitější a dala tomu pevná, psaná pravidla, která všichni musí dodržovat – a stát je hlídá a trestá (to je to úzké pojetí, tedy právo).   
-
-**Klíčová myšlenka** pro rozhovor: „Právo je zkrátka formalizovaná morálka, kterou stát zaručuje a v případě nutnosti vynutí silou.“
-
-
-## Právo a jeho význam ve společnosti
-
-**Širší význam** - (společnost, morálka, etika)
-
-**Užší význam** - právo, zákony (opora právních předpisů)
-
-co se osvěčilo ze širšího přešlo do užšího
-
-## Jak právo funguje v praxi? (Stavební kameny)
-
-**Objektivní vs. subjektivní právo:**
-
-Objektivni právo je celý ten balík zákonů (právní řád), který někde leží.   Subjektivní právo (pro každého jiná) je to, co z toho balíku patří tobě – tvoje osobní oprávnění (např. „mám právo reklamovat boty“).   
-
-**Hmotné vs. procesní právo:**
-
-Hmotné říká, co můžeš a co nesmíš (pravidla chování, např. v občanském zákoníku). Procesní říká, jakým postupem se toho domůžeš (jak probíhá soud, úřední řízení). Nastává když je hmotné porušeno.  
-
-**Soukromé vs. veřejné právo:**
-
-V soukromém právu jsme si všichni rovni (já a soused, kupní smlouva, stát jako právnická osoba). Ve veřejném právu je stát nahoře a ty dole – stát ti diktuje podmínky a ty musíš poslechnout (policie, pokuta, daně).  
-
-obžaloba je trestní
-
-žaloba je občanský
-
-## Jak se píše a čte zákon? (Právní norma)
-Každá právní norma (každé pravidlo) má svou vnitřní kostru – trichotomickou strukturu:   
-
-1. Hypotéza (Kdy?): Podmínka nebo okruh lidí, na které se to vztahuje (např. „Když je člověku 18 let...“).
-
-2. Dispozice (Co má dělat?): Samotné pravidlo chování (příkaz, zákaz, dovolení) (např. „...může volit ve volbách“).   
-
-3. Sankce (Co se stane, když to porušíš?): Trest nebo nepříznivý následek (pokuta, náhrada škody).
-
-* A k tomu časová rovina: Zákon musí nejdřív projít platností (vyjde ve Sbírce zákonů, už existuje) a pak nastane účinnost (odkdy se jím opravdu musíš řídit).
-
-Zkus si to představit na úplně obyčejné situaci, třeba na krádeži v obchodě:Morálka: Krást se nemá (to je širší rovina).   Hmotné právo (trestní zákoník): Říká, že krádež je trestný čin (hmotná norma).Procesní právo: Popisuje, jak tě policie zatkne a jak proběhne soud (procesní norma).Veřejné právo: Stát (policie/soudce) vystupuje z pozice moci proti tobě.
 

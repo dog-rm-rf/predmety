@@ -192,6 +192,13 @@ Software se skládá z **programů**. Každý program je tvořen posloupností i
 - **Jazyk symbolických instrukcí (Assembler):** Mnemotechnický zápis strojových instrukcí srozumitelný pro člověka.
 - Strojový kód závisí na konkrétním typu procesoru (architektuře).
 
+![alt text](image-6.png)
+
+[  Operační kód (ADD)  |  Cílový operand (EAX)  |  Zdrojový operand (EBX)  ]
+[      001011          |         000            |          011             ]
+
+![alt text](image-7.png)
+
 ### Formát strojové instrukce:
 Strojová instrukce typicky obsahuje:
 1. **Operační kód:** Určuje, jaká operace se má vykonat.
