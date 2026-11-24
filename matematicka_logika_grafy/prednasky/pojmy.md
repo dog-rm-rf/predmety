@@ -1,3 +1,4 @@
+
 # Pojmy: Relace a jejich vlastnosti (Část 1)
 
 ---
@@ -391,3 +392,14 @@ Množina $A$ je spočetná, pokud je buď konečná, nebo má stejnou mohutnost 
 **Příklad a Lidské vysvětlení:**
 * **Spočetné množiny:** Všechny prvky jdou uspořádat do řady (dát jim pořadová čísla $1, 2, 3 \dots$). Spočetná jsou celá čísla $\mathbb{Z}$ a dokonce i racionální čísla (zlomky) $\mathbb{Q}$. Znamená to $\vert{}\mathbb{N}\vert{} = \vert{}\mathbb{Z}\vert{} = \vert{}\mathbb{Q}\vert{}$.
 * **Nespočetné množiny:** Prvků je tak strašně moc, že se do řady seřadit nedají, vždy ti nějaké zbudou. Extrémním příkladem jsou reálná čísla $\mathbb{R}$. Platí, že $\vert{}\mathbb{N}\vert{} < \vert{}\mathbb{R}\vert{}$. Reálných čísel je "víc" než přirozených čísel.
+
+
+Q: Z jakých tří hlavních částí se skládá formální definice neorientovaného grafu?
+A: Z trojice $(V, E, p)$: vrcholů, hran a zobrazení $p$, které určuje, jaké vrcholy daná hrana spojuje.
+
+Q: Jaký je rozdíl mezi obyčejným grafem a multigrafem z hlediska zobrazení $p$?
+A: V multigrafu mohou existovat dvě různé hrany ($e_1 \neq e_2$), pro které platí $p(e_1) = p(e_2)$ (tzv. vícenásobné hrany). V obyčejném grafu toto možné není.
+
+Q: Jak se v zobrazení $p$ projeví, že je v grafu smyčka?
+A: Pro danou hranu vrátí $p$ pouze jednoprvkovou množinu (hrana začíná i končí ve stejném vrcholu).
+

@@ -532,3 +532,20 @@ Dva publikační způsoby v České republice:
 - **Analogie podle zákona:** použití norem, která upravuje nejobdobnější případ.
 - **Analogie podle práva:** pokud nejsou ani obdobné právní normy, situace se řeší podle obecných právních zásad.
 
+**Interpretace právních norem:**
+
+> **Výklad (interpretace) =** Právní norma je abstraktní pravidlo chování, které se pro uplatnění na konkrétní případ musí vyložit.
+
+> **To samé ale lidsky:** Hledání přesného významu a smyslu zákona. Zákony jsou psány obecně (pro všechny), ale my je v praxi potřebujeme napasovat na konkrétní životní situaci. Výklad slouží k tomu, abychom pochopili, co přesně nám dané pravidlo v našem případě říká.
+
+**1. Podle toho, kdo výklad podává (subjekt):**
+- **Legální:** obecně závazný výklad ústavou zmocněného orgánu (v ČR toto zmocnění není).
+- **Oficiální:** výklad státního orgánu pro podřízené pracovníky (nezavazuje služebně nepodřízené).
+- **Orgánu aplikujícího právo (NS a VS):** právně závazný výlučně jen v konkrétním posuzovaném případě. Rozhodnutí a stanoviska Nejvyššího a Vrchního soudu nejsou obecně právně závazná, ale ovlivňují praxi soudů i úřadů.
+- **Doktrinální:** založený na vědeckém zkoumání (v komentářích, učebnicích). Není právně závazný, praxi ovlivňuje.
+
+
+**2. Podle použité metody (jak se vykládá):**
+- **Gramatická (jazyková):** Přímočarý výklad přímo z textu normy (rozbor struktury věty, gramatiky a obvyklého významu použitých slov).
+- **Systematická:** Zkoumá umístění normy v kontextu. Hodnotí její členění v předpisu (části, hlavy, oddíly) a její postavení v celém právním odvětví a právním řádu.
+- **Logická:** Využívá postupy formální logiky (např. výklad od opaku, od silnějšího, nebo důkaz sporem).
